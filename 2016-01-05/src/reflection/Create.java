@@ -1,3 +1,5 @@
+package reflection;
+
 import java.util.Scanner;
 
 public class Create {
@@ -11,6 +13,11 @@ public class Create {
             Object o = cl.newInstance();
             System.out.println(o);
 
+            A a = new A();
+            Class cl2 = a.getClass();
+            Object o2 = cl2.newInstance();
+            System.out.println(o2);
+
         } catch (Exception ex) {
         }
 
@@ -20,6 +27,6 @@ public class Create {
 class A {
     @Override
     public String toString(){
-        return "I am an " + getClass().getName();
+        return "I am an " + getClass();
     }
 }

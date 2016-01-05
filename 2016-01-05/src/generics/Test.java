@@ -1,3 +1,5 @@
+package generics;
+
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 import java.util.ArrayList;
@@ -5,9 +7,9 @@ import java.util.List;
 
 public class Test {
     public static void main(String[] args) {
-//        List<Lion> enclosure = new ArrayList<>();
-//        enclosure.add(new Lion(12));
-//        enclosure.add(new Lion(18));
+//        List<generics.Lion> enclosure = new ArrayList<>();
+//        enclosure.add(new generics.Lion(12));
+//        enclosure.add(new generics.Lion(18));
 //        sort(enclosure);
         List<Animal> zoo = new ArrayList<>();
         zoo.add(new Lion(23));
@@ -25,9 +27,13 @@ public class Test {
 
 class Animal implements Comparable<Animal>{
 
+    @Override
+    public int compareTo(Animal o) {
+        return 0;
+    }
 }
 
-class Lion extends Animal { //implements Comparable<Lion> {
+class Lion extends Animal { //implements Comparable<generics.Lion> {
     private Integer age;
 
     public Lion(int age){
@@ -35,12 +41,12 @@ class Lion extends Animal { //implements Comparable<Lion> {
     }
 
 //    @Override
-//    public int compareTo(Lion other) {
+//    public int compareTo(generics.Lion other) {
 //        return age.compareTo(other.age);
 //    }
 }
 
-class Zebra extends Animal { //implements Comparable<Zebra>{
+class Zebra extends Animal { //implements Comparable<generics.Zebra>{
     private Integer age;
 
     public Zebra(int age){
@@ -48,7 +54,7 @@ class Zebra extends Animal { //implements Comparable<Zebra>{
     }
 
 //    @Override
-//    public int compareTo(Zebra other) {
+//    public int compareTo(generics.Zebra other) {
 //        return age.compareTo(other.age);
 //    }
 }
