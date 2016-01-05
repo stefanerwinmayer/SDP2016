@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2016-01-05/2016-01-05.iml" filepath="$PROJECT_DIR$/2016-01-05/2016-01-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2016-01-07/2016-01-07.iml" filepath="$PROJECT_DIR$/2016-01-07/2016-01-07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDP2016.iml" filepath="$PROJECT_DIR$/SDP2016.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mop/mop.iml" filepath="$PROJECT_DIR$/mop/mop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflection/reflection.iml" filepath="$PROJECT_DIR$/reflection/reflection.iml" />
+    </modules>
+  </component>
+</project>
