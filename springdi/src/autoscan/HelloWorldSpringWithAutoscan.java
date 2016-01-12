@@ -14,8 +14,8 @@ public class HelloWorldSpringWithAutoscan {
     }
 
     private static BeanFactory getBeanFactory() throws Exception {
-        // create a bean factory from beans.xml
-        BeanFactory factory = new ClassPathXmlApplicationContext("/beans.xml");
+        // create a bean factory from anno.xml
+        BeanFactory factory = new ClassPathXmlApplicationContext("autoscan.xml");
         return factory;
     }
 }

@@ -15,9 +15,9 @@
              It is because the wiring requirement is specified through
              @Autowired annotation  -->
     <bean id="renderer"
-          class="helloworld.StandardOutMessageRenderer">
+          class="annotation.StandardOutMessageRenderer">
     </bean>
 
     <bean id="provider"
-          class="helloworld.HelloWorldMessageProvider"/>
+          class="annotation.HelloWorldMessageProvider"/>
 </beans>

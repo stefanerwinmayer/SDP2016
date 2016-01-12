@@ -12,5 +12,5 @@
     <!--  <context:annotation-config /> -->
 		
     <!-- scan component, it also assumes annotation-config as well-->
-    <context:component-scan base-package="helloworld"/>
+    <context:component-scan base-package="autoscan"/>
 </beans>
