@@ -17,15 +17,14 @@ public class Test {
         sort(zoo);
     }
 
-    public static <A extends Comparable< ? super A>>
-    void sort(List<A> list){
+    public static <A extends Comparable<? super A>>
+    void sort(List<A> list) {
         throw new NotImplementedException();
     }
 }
 
 
-
-class Animal implements Comparable<Animal>{
+class Animal implements Comparable<Animal> {
 
     @Override
     public int compareTo(Animal o) {
@@ -36,7 +35,7 @@ class Animal implements Comparable<Animal>{
 class Lion extends Animal { //implements Comparable<generics.Lion> {
     private Integer age;
 
-    public Lion(int age){
+    public Lion(int age) {
         this.age = age;
     }
 
@@ -49,7 +48,7 @@ class Lion extends Animal { //implements Comparable<generics.Lion> {
 class Zebra extends Animal { //implements Comparable<generics.Zebra>{
     private Integer age;
 
-    public Zebra(int age){
+    public Zebra(int age) {
         this.age = age;
     }
 

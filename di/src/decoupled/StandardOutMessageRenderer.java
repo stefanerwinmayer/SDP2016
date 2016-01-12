@@ -10,7 +10,6 @@ public class StandardOutMessageRenderer {
                     "You must set the property messageProvider of class:"
                             + StandardOutMessageRenderer.class.getName());
         }
-
         System.out.println(messageProvider.getMessage());
     }
 

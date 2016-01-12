@@ -14,7 +14,7 @@ public class MessageSupportFactory {
 		props = new Properties();
 
 		try {
-			props.load(new FileInputStream("bean.properties"));
+			props.load(new FileInputStream("/Users/keith/Courses/sdp/2016/SDP2016/di/src/decoupledwithfactory/bean.properties"));
 
 			// get the implementation classes
 			String rendererClass = props.getProperty("renderer.class");
@@ -25,6 +25,7 @@ public class MessageSupportFactory {
 			provider = (MessageProvider) Class.forName(providerClass)
 					.newInstance();
 		} catch (Exception ex) {
+			System.err.println("Failed to create factory methods");
 			ex.printStackTrace();
 		}
 	}

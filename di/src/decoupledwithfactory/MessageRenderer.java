@@ -1,10 +1,7 @@
 package decoupledwithfactory;
 
 public interface MessageRenderer {
-
-	public void render();
-
-	public void setMessageProvider(MessageProvider provider);
-
-	public MessageProvider getMessageProvider();
+    void render();
+    MessageProvider getMessageProvider();
+    void setMessageProvider(MessageProvider provider);
 }
