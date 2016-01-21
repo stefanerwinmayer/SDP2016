@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/cw-pair-scala/cw-pair-scala.iml" filepath="$PROJECT_DIR$/cw-pair-scala/cw-pair-scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/designpatterns/designpatterns.iml" filepath="$PROJECT_DIR$/designpatterns/designpatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/di/di.iml" filepath="$PROJECT_DIR$/di/di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/exercises.iml" filepath="$PROJECT_DIR$/exercises/exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/guice/guice.iml" filepath="$PROJECT_DIR$/guice/guice.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
