@@ -10,6 +10,7 @@ println(yy)
 //yy = 20
 assert(true)
 assert(3 == 3)
+case class A()
+val x = new A()
+println(x)
 
-var obj = 80
-var thing = (obj -45) * 5.0/9
