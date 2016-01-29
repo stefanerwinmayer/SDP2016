@@ -6,7 +6,7 @@ public class BoxDriver {
         StrBox strBox = new StrBox("Hello");
         String s = strBox.getData();
 
-        int y = (Integer) strBox.getData();
-        intBox = strBox;
+        //int y = (Integer) strBox.getData(); Compiler error
+        //intBox = strBox; Compiler error
     }
 }

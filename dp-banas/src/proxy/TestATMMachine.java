@@ -6,19 +6,19 @@ public class TestATMMachine {
 
         ATMMachine atmMachine = new ATMMachine();
 
-        atmMachine.insertCard();
+        //atmMachine.insertCard(); Compile error
 
-        atmMachine.ejectCard();
+        //atmMachine.ejectCard(); Compile error
 
-        atmMachine.insertCard();
+        //atmMachine.insertCard(); Compile error
 
-        atmMachine.insertPin(1234);
+        //atmMachine.insertPin(1234); Compile error
 
-        atmMachine.requestCash(2000);
+        //atmMachine.requestCash(2000); Compile error
 
-        atmMachine.insertCard();
+        //atmMachine.insertCard(); Compile error
 
-        atmMachine.insertPin(1234);
+        //atmMachine.insertPin(1234); Compile error
 
         // NEW STUFF : Proxy Design Pattern Code
         // The interface limits access to just the methods you want

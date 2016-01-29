@@ -1,7 +1,14 @@
 package proxy;
 
 public class ATMMachine implements GetATMData {
+    // Adding these fields to avoid compile errors
 
+    private ATMState hasCard;
+    private ATMState noCard;
+    private ATMState hasCorrectPin;
+    private ATMState atmOutOfMoney;
+    private ATMState atmState;
+    private int cashInMachine;
 
     public ATMState getYesCardState() {
         return hasCard;

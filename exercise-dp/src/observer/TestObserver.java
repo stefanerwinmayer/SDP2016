@@ -1,7 +1,7 @@
 package observer;
 
-import observerpattern.CommentaryObject;
-import observerpattern.SMSUsers;
+import observer.CommentaryObject;
+import observer.SMSUsers;
 
 import java.util.ArrayList;
 
