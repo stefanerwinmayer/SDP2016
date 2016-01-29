@@ -1,4 +1,6 @@
-package xpay;
+package adapterpattern.site;
+
+import adapterpattern.xpay.Xpay;
 
 public class XpayImpl implements Xpay {
     private String creditCardNo;
