@@ -6,8 +6,8 @@ object Thing extends App {
 
 "asgdaghsd" take 3
 
-val x: Array[String]
 
-x(0) = "sdasda"
 
-println(x)
+
+def getSquare(x: Int): Int = x * x
+assert(getSquare(3) == 8)

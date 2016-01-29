@@ -17,4 +17,8 @@ object StringSpecification extends Properties("String") {
     (a + b + c).substring(a.length, a.length + b.length) == b
   }
 
+  property("reverse") = forAll { (l:List[String]) =>
+    l.reverse.reverse == l
+  }
+
 }
