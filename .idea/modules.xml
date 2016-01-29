@@ -7,16 +7,22 @@
       <module fileurl="file://$PROJECT_DIR$/2016-01-12/2016-01-12.iml" filepath="$PROJECT_DIR$/2016-01-12/2016-01-12.iml" />
       <module fileurl="file://$PROJECT_DIR$/2016-01-14/2016-01-14.iml" filepath="$PROJECT_DIR$/2016-01-14/2016-01-14.iml" />
       <module fileurl="file://$PROJECT_DIR$/2016-01-21/2016-01-21.iml" filepath="$PROJECT_DIR$/2016-01-21/2016-01-21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2016-01-26/2016-01-26.iml" filepath="$PROJECT_DIR$/2016-01-26/2016-01-26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2016-01-28/2016-01-28.iml" filepath="$PROJECT_DIR$/2016-01-28/2016-01-28.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDP2016.iml" filepath="$PROJECT_DIR$/SDP2016.iml" />
       <module fileurl="file://$PROJECT_DIR$/SML/SML.iml" filepath="$PROJECT_DIR$/SML/SML.iml" />
       <module fileurl="file://$PROJECT_DIR$/SML_Scala/SML_Scala.iml" filepath="$PROJECT_DIR$/SML_Scala/SML_Scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atomicscala/atomicscala.iml" filepath="$PROJECT_DIR$/atomicscala/atomicscala.iml" />
       <module fileurl="file://$PROJECT_DIR$/cw-pair-java/cw-pair-java.iml" filepath="$PROJECT_DIR$/cw-pair-java/cw-pair-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/cw-pair-scala/cw-pair-scala.iml" filepath="$PROJECT_DIR$/cw-pair-scala/cw-pair-scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/designpatterns/designpatterns.iml" filepath="$PROJECT_DIR$/designpatterns/designpatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/di/di.iml" filepath="$PROJECT_DIR$/di/di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dp-banas/dp-banas.iml" filepath="$PROJECT_DIR$/dp-banas/dp-banas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise-dp/exercise-dp.iml" filepath="$PROJECT_DIR$/exercise-dp/exercise-dp.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/guice/guice.iml" filepath="$PROJECT_DIR$/guice/guice.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdpe/jdpe.iml" filepath="$PROJECT_DIR$/jdpe/jdpe.iml" />
       <module fileurl="file://$PROJECT_DIR$/mop/mop.iml" filepath="$PROJECT_DIR$/mop/mop.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflection/reflection.iml" filepath="$PROJECT_DIR$/reflection/reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdi/springdi.iml" filepath="$PROJECT_DIR$/springdi/springdi.iml" />
