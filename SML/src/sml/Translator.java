@@ -11,7 +11,7 @@ import java.util.Scanner;
  */
 public class Translator {
 
-    private static final String SRC = "src";
+    private static final String PATH = "/Users/keith/Courses/sdp/2016/SDP2016/SML/src/";
     // word + line is the part of the current line that's not yet processed
     // word has no whitespace
     // If word and line are not empty, line begins with whitespace
@@ -21,7 +21,7 @@ public class Translator {
     private String fileName; // source file of SML code
 
     public Translator(String fileName) {
-        this.fileName = SRC + "/" + fileName;
+        this.fileName = PATH + fileName;
     }
 
     // translate the small program in the file into lab (the labels) and
@@ -63,6 +63,7 @@ public class Translator {
             }
         } catch (IOException ioE) {
             System.out.println("File: IO error " + ioE.getMessage());
+            System.exit(-1);
             return false;
         }
         return true;
