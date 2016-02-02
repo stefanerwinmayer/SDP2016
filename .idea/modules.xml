@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/jdpe/jdpe.iml" filepath="$PROJECT_DIR$/jdpe/jdpe.iml" />
       <module fileurl="file://$PROJECT_DIR$/mop/mop.iml" filepath="$PROJECT_DIR$/mop/mop.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflection/reflection.iml" filepath="$PROJECT_DIR$/reflection/reflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercises/scala 1/scala 1.iml" filepath="$PROJECT_DIR$/exercises/scala 1/scala 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdi/springdi.iml" filepath="$PROJECT_DIR$/springdi/springdi.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdialt/springdialt.iml" filepath="$PROJECT_DIR$/springdialt/springdialt.iml" />
     </modules>
