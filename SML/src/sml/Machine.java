@@ -34,6 +34,11 @@ public class Machine {
 
     public static void main(String[] args) {
 
+        if (args.length != 1) {
+            System.err.println("Incorrect number of arguments - Machine <file> - required");
+            System.exit(-1);
+        }
+
         Machine m = new Machine();
         Translator t = new Translator(args[0]);
         t.readAndTranslate(m.getLabels(), m.getProg());
