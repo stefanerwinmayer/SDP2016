@@ -11,6 +11,6 @@ public class TextEditor {
     }
 
     public void publishText(String text) {
-
+        formatter.format(text);
     }
 }
