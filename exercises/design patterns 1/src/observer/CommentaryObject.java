@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Created by stefanm on 04/02/2016.
  */
-public class CommentaryObject implements Subject {
+public class CommentaryObject implements Subject, Commentary {
     ArrayList observers;
     String description;
 
@@ -31,6 +31,11 @@ public class CommentaryObject implements Subject {
 
     @Override
     public String subjectDetails() {
-        return "fail";
+        return description;
+    }
+
+    @Override
+    public void setDesc(String desc) {
+
     }
 }
