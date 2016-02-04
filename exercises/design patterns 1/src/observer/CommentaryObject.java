@@ -16,7 +16,8 @@ public class CommentaryObject implements Subject, Commentary {
 
     @Override
     public void subscribeObserver(Observer observer) {;
-
+        observers.add(observer);
+        System.out.println(description + " has " + observers.size() + " followers");
     }
 
     @Override
