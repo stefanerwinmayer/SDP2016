@@ -3,8 +3,8 @@ package observer;
 /**
  * Created by stefanm on 04/02/2016.
  */
-import observerpattern.CommentaryObject;
-import observerpattern.SMSUsers;
+//import observerpattern.CommentaryObject;
+//import observerpattern.SMSUsers;
 import java.util.ArrayList;
 public class TestObserver {
     public static void main(String[] args) {
