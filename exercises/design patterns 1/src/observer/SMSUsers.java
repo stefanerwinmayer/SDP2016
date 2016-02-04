@@ -4,8 +4,8 @@ package observer;
  * Created by stefanm on 04/02/2016.
  */
 public class SMSUsers implements Observer {
-    Subject subject;
-    String name;
+    private Subject subject;
+    private String name;
 
     public SMSUsers(Subject subject, String name) {
         this.subject = subject;

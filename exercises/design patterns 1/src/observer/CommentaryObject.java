@@ -6,9 +6,9 @@ import java.util.ArrayList;
  * Created by stefanm on 04/02/2016.
  */
 public class CommentaryObject implements Subject, Commentary {
-    ArrayList<Observer> observers;
-    String description;
-    String commentary;
+    private ArrayList<Observer> observers;
+    private String description;
+    private String commentary;
 
     public CommentaryObject(ArrayList<Observer> observers, String description) {
         this.observers = observers;

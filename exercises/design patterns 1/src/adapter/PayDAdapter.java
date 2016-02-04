@@ -4,7 +4,7 @@ package adapter;
  * Created by stefanm on 04/02/2016.
  */
 public class PayDAdapter implements PayD {
-    Xpay adaptee;
+    private Xpay adaptee;
 
     public PayDAdapter(Xpay adaptee) {
         this.adaptee = adaptee;
