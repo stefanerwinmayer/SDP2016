@@ -8,6 +8,7 @@ import java.util.ArrayList;
 public class CommentaryObject implements Subject, Commentary {
     ArrayList<Observer> observers;
     String description;
+    String commentary;
 
     public CommentaryObject(ArrayList<Observer> observers, String description) {
         this.observers = observers;
@@ -37,6 +38,8 @@ public class CommentaryObject implements Subject, Commentary {
 
     @Override
     public void setDesc(String desc) {
-
+        commentary = desc;
+        System.out.println("Current comment: " + commentary);
+        notifyObservers();
     }
 }
