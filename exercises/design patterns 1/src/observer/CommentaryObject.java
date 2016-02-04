@@ -42,7 +42,7 @@ public class CommentaryObject implements Subject, Commentary {
     @Override
     public void setDesc(String desc) {
         commentary = desc;
-        System.out.println("Current comment: " + commentary);
+        System.out.println("\nCurrent comment: " + commentary);
         notifyObservers();
     }
 }
