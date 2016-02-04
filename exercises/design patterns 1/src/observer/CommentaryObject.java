@@ -23,7 +23,8 @@ public class CommentaryObject implements Subject, Commentary {
 
     @Override
     public void unSubscribeObserver(Observer observer) {
-
+        observers.remove(observer);
+        System.out.println(description + " has " + observers.size() + " followers");
     }
 
     @Override
