@@ -6,16 +6,16 @@ import java.util.ArrayList;
  * Created by stefanm on 04/02/2016.
  */
 public class CommentaryObject implements Subject, Commentary {
-    ArrayList observers;
+    ArrayList<Observer> observers;
     String description;
 
-    public CommentaryObject(ArrayList observers, String description) {
+    public CommentaryObject(ArrayList<Observer> observers, String description) {
         this.observers = observers;
         this.description = description;
     }
 
     @Override
-    public void subscribeObserver(Observer observer) {
+    public void subscribeObserver(Observer observer) {;
 
     }
 
