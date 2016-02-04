@@ -28,7 +28,9 @@ public class CommentaryObject implements Subject, Commentary {
 
     @Override
     public void notifyObservers() {
-
+        for (Observer observer : observers) {
+            observer.update(commentary);
+        }
     }
 
     @Override
