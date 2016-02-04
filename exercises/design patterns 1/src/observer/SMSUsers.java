@@ -14,7 +14,7 @@ public class SMSUsers implements Observer {
 
     @Override
     public void update(String desc) {
-
+        System.out.println(name + " recieved: " + desc);
     }
 
     @Override
