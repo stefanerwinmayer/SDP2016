@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/exercises/design patterns 2/design patterns 2.iml" filepath="$PROJECT_DIR$/exercises/design patterns 2/design patterns 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/designpatterns/designpatterns.iml" filepath="$PROJECT_DIR$/designpatterns/designpatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/di/di.iml" filepath="$PROJECT_DIR$/di/di.iml" />
+      <module fileurl="file://$PROJECT_DIR$/di-scala/di-scala.iml" filepath="$PROJECT_DIR$/di-scala/di-scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/dp-banas/dp-banas.iml" filepath="$PROJECT_DIR$/dp-banas/dp-banas.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercise-dp/exercise-dp.iml" filepath="$PROJECT_DIR$/exercise-dp/exercise-dp.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercise-dp-two/exercise-dp-two.iml" filepath="$PROJECT_DIR$/exercise-dp-two/exercise-dp-two.iml" />
@@ -30,7 +31,9 @@
       <module fileurl="file://$PROJECT_DIR$/mop/mop.iml" filepath="$PROJECT_DIR$/mop/mop.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflection/reflection.iml" filepath="$PROJECT_DIR$/reflection/reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercises/scala 1/scala 1.iml" filepath="$PROJECT_DIR$/exercises/scala 1/scala 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-examples/scala-examples.iml" filepath="$PROJECT_DIR$/scala-examples/scala-examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdi/springdi.iml" filepath="$PROJECT_DIR$/springdi/springdi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdi-scala/springdi-scala.iml" filepath="$PROJECT_DIR$/springdi-scala/springdi-scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdialt/springdialt.iml" filepath="$PROJECT_DIR$/springdialt/springdialt.iml" />
     </modules>
   </component>
