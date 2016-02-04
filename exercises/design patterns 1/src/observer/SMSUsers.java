@@ -25,6 +25,7 @@ public class SMSUsers implements Observer {
 
     @Override
     public void unSubscribe() {
-
+        System.out.println(name + " unsubscribed from " + subject.subjectDetails());
+        subject.unSubscribeObserver(this);
     }
 }
