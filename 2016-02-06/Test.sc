@@ -15,3 +15,4 @@ object MyMain extends App {
 
 def c: Base = Child()
 c.meth
+// c.anotherMeth is illegal for the obvious reasons
