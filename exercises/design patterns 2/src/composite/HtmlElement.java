@@ -4,6 +4,7 @@ public class HtmlElement extends HtmlTag {
     private String tagName;
     private String startTag;
     private String endTag;
+    private String tagBody;
 
     public HtmlElement(String tagName) {
         this.tagName = tagName;
@@ -26,5 +27,9 @@ public class HtmlElement extends HtmlTag {
     @Override
     public void generateHtml() {
 
+    }
+
+    public void setTagBody(String body) {
+        tagBody = body;
     }
 }
