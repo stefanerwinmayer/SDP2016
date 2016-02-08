@@ -10,17 +10,17 @@ public class HtmlElement extends HtmlTag {
     }
     @Override
     public String getTagName() {
-        return null;
+        return tagName;
     }
 
     @Override
     public void setStartTag(String tag) {
-
+        startTag = tag;
     }
 
     @Override
     public void setEndTag(String tag) {
-
+        endTag = tag;
     }
 
     @Override
