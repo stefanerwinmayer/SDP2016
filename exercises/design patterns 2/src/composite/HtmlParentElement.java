@@ -31,7 +31,9 @@ public class HtmlParentElement extends HtmlTag {
 
     @Override
     public void generateHtml() {
-
+        System.out.println(startTag);
+        childTags.forEach(tag -> tag.generateHtml());
+        System.out.println(endTag);
     }
 
     public void addChildTag(HtmlTag tag) {
