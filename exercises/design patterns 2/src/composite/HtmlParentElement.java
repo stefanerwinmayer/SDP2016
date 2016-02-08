@@ -1,12 +1,17 @@
 package composite;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class HtmlParentElement extends HtmlTag {
     private String tagName;
     private String startTag;
     private String endTag;
+    private List<HtmlTag> childTags;
 
     public HtmlParentElement(String tagName) {
         this.tagName = tagName;
+        childTags = new ArrayList<HtmlTag>();
     }
 
     @Override
@@ -27,5 +32,9 @@ public class HtmlParentElement extends HtmlTag {
     @Override
     public void generateHtml() {
 
+    }
+
+    public void addChildTag(HtmlTag tag) {
+        childTags.add(tag);
     }
 }
