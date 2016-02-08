@@ -14,6 +14,8 @@ public class Motoren extends Car {
 
     @Override
     public void produceProduct() {
-        throw new UnsupportedOperationException();
+        product.produce();
+        System.out.println("Modifying product " + product.productName() + " according to " + carType);
+        //throw new UnsupportedOperationException();
     }
 }

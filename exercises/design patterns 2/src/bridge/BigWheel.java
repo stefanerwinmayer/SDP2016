@@ -15,6 +15,7 @@ public class BigWheel extends Car {
     @Override
     public void produceProduct() {
         product.produce();
+        System.out.println("Modifying product " + product.productName() + " according to " + carType);
         //throw new UnsupportedOperationException();
     }
 }
