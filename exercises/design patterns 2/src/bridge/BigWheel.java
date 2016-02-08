@@ -9,7 +9,8 @@ public class BigWheel extends Car {
 
     @Override
     public void assemble() {
-        throw new UnsupportedOperationException();
+        System.out.println("Assembling " + product.productName() + " for " + carType);
+        //throw new UnsupportedOperationException();
     }
 
     @Override
