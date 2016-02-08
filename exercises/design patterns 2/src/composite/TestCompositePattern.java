@@ -22,3 +22,12 @@ public class TestCompositePattern {
         parentTag.generateHtml();
     }
 }
+
+/*
+<html>
+<body>
+<P>Testing html tag library</P>
+<P>Paragraph 2</P>
+</body>
+</html>
+ */
