@@ -10,11 +10,13 @@ public class CentralLocking implements Product {
 
     @Override
     public String productName() {
-        throw new UnsupportedOperationException();
+        return productName;
+        //throw new UnsupportedOperationException();
     }
 
     @Override
     public void produce() {
-        throw new UnsupportedOperationException();
+        System.out.println("Producing " + productName());
+        //throw new UnsupportedOperationException();
     }
 }
