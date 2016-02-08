@@ -1,8 +1,8 @@
 package bridge;
 
 public abstract class Car {
-    private Product product;
-    private String carType;
+    protected Product product;
+    protected String carType;
 
     public Car(Product product, String carType) {
         this.product = product;

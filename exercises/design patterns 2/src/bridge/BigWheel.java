@@ -1,6 +1,7 @@
 package bridge;
 
 public class BigWheel extends Car {
+
     public BigWheel(Product product, String carType) {
         super(product, carType);
         //throw new UnsupportedOperationException();
@@ -13,6 +14,7 @@ public class BigWheel extends Car {
 
     @Override
     public void produceProduct() {
-        throw new UnsupportedOperationException();
+        product.produce();
+        //throw new UnsupportedOperationException();
     }
 }
