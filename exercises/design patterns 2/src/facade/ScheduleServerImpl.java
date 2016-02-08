@@ -1,43 +1,63 @@
 package facade;
 
-/**
- * Created by smayer04 on 04/02/2016.
- */
 public class ScheduleServerImpl implements ScheduleServer {
+    @Override
+    public void startBooting() {
+
+    }
 
     @Override
-    public void startBooting(){}
+    public void readSystemConfigFile() {
+
+    }
 
     @Override
-    public void readSystemConfigFile(){}
+    public void init() {
+
+    }
 
     @Override
-    public void init(){}
+    public void initializeContext() {
+
+    }
 
     @Override
-    public void initializeContext(){}
+    public void initializeListeners() {
+
+    }
 
     @Override
-    public void initializeListeners(){}
+    public void createSystemObjects() {
+
+    }
 
     @Override
-    public void createSystemObjects(){}
+    public void releaseProcesses() {
+
+    }
 
     @Override
-    public void releaseProcesses(){}
+    public void destory() {
+
+    }
 
     @Override
-    public void destory(){}
+    public void destroySystemObjects() {
+
+    }
 
     @Override
-    public void destroySystemObjects(){}
+    public void destoryListeners() {
+
+    }
 
     @Override
-    public void destoryListeners(){}
+    public void destoryContext() {
+
+    }
 
     @Override
-    public void destoryContext(){}
+    public void shutdown() {
 
-    @Override
-    public void shutdown(){}
+    }
 }

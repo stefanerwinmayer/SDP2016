@@ -6,22 +6,20 @@ package facade;
 public class ScheduleServerFacade {
     private ScheduleServer scheduleServer;
 
-    public ScheduleServerFacade() {
-        scheduleServer = new ScheduleServerImpl();
+    public ScheduleServerFacade(ScheduleServer scheduleServer) {
+        this.scheduleServer = scheduleServer;
     }
 
-    public void start() {
+    public void startServer() {
         scheduleServer.startBooting();
         scheduleServer.readSystemConfigFile();
         scheduleServer.init();
         scheduleServer.initializeContext();
         scheduleServer.initializeListeners();
         scheduleServer.createSystemObjects();
-        System.out.println("Start working......");
-        System.out.println("After work done.........");
     }
 
-    public void stop() {
+    public void stopServer() {
         scheduleServer.releaseProcesses();
         scheduleServer.destory();
         scheduleServer.destroySystemObjects();
