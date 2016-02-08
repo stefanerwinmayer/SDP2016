@@ -3,7 +3,7 @@ package bridge;
 public class BigWheel extends Car {
     public BigWheel(Product product, String carType) {
         super(product, carType);
-        throw new UnsupportedOperationException();
+        //throw new UnsupportedOperationException();
     }
 
     @Override

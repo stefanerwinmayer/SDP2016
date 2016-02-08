@@ -1,9 +1,11 @@
 package bridge;
 
 public class CentralLocking implements Product {
+    private String productName;
 
     public CentralLocking(String productName) {
-        throw new UnsupportedOperationException();
+        this.productName = productName;
+        //throw new UnsupportedOperationException();
     }
 
     @Override

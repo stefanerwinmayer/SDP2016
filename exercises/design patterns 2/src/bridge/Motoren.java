@@ -4,7 +4,7 @@ public class Motoren extends Car {
 
     public Motoren(Product product, String carType) {
         super(product,carType);
-        throw new UnsupportedOperationException();
+        //throw new UnsupportedOperationException();
     }
 
     @Override

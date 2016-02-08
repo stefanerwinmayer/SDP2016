@@ -1,9 +1,13 @@
 package bridge;
 
 public abstract class Car {
+    private Product product;
+    private String carType;
 
     public Car(Product product, String carType) {
-        throw new UnsupportedOperationException();
+        this.product = product;
+        this.carType = carType;
+        //throw new UnsupportedOperationException();
     }
 
     public abstract void assemble();
