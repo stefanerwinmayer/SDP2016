@@ -38,8 +38,6 @@ class Translator(fileName: String) {
 }
 
 object Translator {
-  private val directory: String = "src/"
-
   def apply(file: String) =
-    new Translator(directory + file)
+    new Translator(file)
 }
