@@ -7,5 +7,8 @@ public class SingletonTester {
     public static void main(String[] args) {
         SingletonEager eagerSingleton = SingletonEager.getInstance();
         System.out.println(eagerSingleton.getClass().getName());
+
+        SingletonLazy lazySingleton = SingletonLazy.getInstance();
+        System.out.println(lazySingleton.getClass().getName());
     }
 }
