@@ -9,6 +9,12 @@ object MyForecastTest extends App {
   forecast(20) is "Mostly Sunny"
   forecast(0) is "Cloudy"
   forecast(15) is "Unknown"
+
+  val sunnyData = Vector(100, 80, 50, 20, 0, 15)
+  for (value <- sunnyData) {
+    println(forecast(value))
+  }
+
   def forecast(temp: Int): String = temp match {
     case 100 => "Sunny"
     case 80 => "Mostly Sunny"
