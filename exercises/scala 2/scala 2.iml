@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="scala-sdk-2.11.2" level="project" />
+    <orderEntry type="module" module-name="atomicscala" />
   </component>
 </module>
