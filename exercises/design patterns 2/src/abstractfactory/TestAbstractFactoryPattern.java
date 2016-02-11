@@ -19,11 +19,3 @@ public class TestAbstractFactoryPattern {
     }
 
 }
-
-/* Output:
-NYC Parsing order XML...
-NYC Order XML Message
-************************************
-London Parsing feedback XML...
-London Feedback XML Message
- */
