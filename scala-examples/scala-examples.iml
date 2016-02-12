@@ -7,11 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-<<<<<<< HEAD
     <orderEntry type="library" name="scala-sdk-2.11.7" level="application" />
-=======
-    <orderEntry type="library" name="scala-sdk-2.11.7 (2)" level="application" />
->>>>>>> 9f18244cb4097ba570f724964c458415e14e16c5
   </component>
   <component name="org.twodividedbyzero.idea.findbugs">
     <option name="_basePreferences">

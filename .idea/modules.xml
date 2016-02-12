@@ -33,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/reflection/reflection.iml" filepath="$PROJECT_DIR$/reflection/reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercises/scala 1/scala 1.iml" filepath="$PROJECT_DIR$/exercises/scala 1/scala 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercises/scala 2/scala 2.iml" filepath="$PROJECT_DIR$/exercises/scala 2/scala 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-examples/scala-examples.iml" filepath="$PROJECT_DIR$/scala-examples/scala-examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdi/springdi.iml" filepath="$PROJECT_DIR$/springdi/springdi.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdi-scala/springdi-scala.iml" filepath="$PROJECT_DIR$/springdi-scala/springdi-scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdialt/springdialt.iml" filepath="$PROJECT_DIR$/springdialt/springdialt.iml" />
