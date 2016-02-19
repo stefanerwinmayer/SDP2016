@@ -13,12 +13,14 @@ def explicit(c1: Char, c2: Char, c3: Char): Vector[Char] = {
 inferred('a', 'b', 'c') is "Vector(a, b, c)"
 explicit('a', 'b', 'c') is "Vector(a, b, c)"
 
+// 17
 def explicitDouble(d1: Double, d2: Double, d3: Double): Vector[Double] = {
   Vector(d1, d2, d3)
 }
 
 explicitDouble(1.0, 2.0, 3.0) is Vector(1.0, 2.0, 3.0)
 
+// 18
 def explicitList(vector: Vector[Double]): List[Double] = {
   vector.toList
 }
@@ -26,6 +28,7 @@ def explicitList(vector: Vector[Double]): List[Double] = {
 explicitList(Vector(10.0, 20.0)) is List(10.0, 20.0)
 explicitList(Vector(1, 2, 3)) is List(1.0, 2.0, 3.0)
 
+// 19
 def explicitSet(vector: Vector[Double]): Set[Double] = {
   vector.toSet
 }
