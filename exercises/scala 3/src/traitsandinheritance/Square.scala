@@ -4,9 +4,9 @@ package traitsandinheritance
   * Created by stefanm on 22/02/2016.
   */
 class Square(val side: Double) extends Shape {
-  def sides(): Double = ???
+  def sides(): Double = 4
 
-  def perimeter(): Double = ???
+  def perimeter(): Double = 4 * side
 
-  def area(): Double = ???
+  def area(): Double = side * side
 }
