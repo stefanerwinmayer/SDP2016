@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/SML/SML.iml" filepath="$PROJECT_DIR$/SML/SML.iml" />
       <module fileurl="file://$PROJECT_DIR$/SML_Scala/SML_Scala.iml" filepath="$PROJECT_DIR$/SML_Scala/SML_Scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/atomicscala/atomicscala.iml" filepath="$PROJECT_DIR$/atomicscala/atomicscala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cw-one/cw-one.iml" filepath="$PROJECT_DIR$/cw-one/cw-one.iml" />
       <module fileurl="file://$PROJECT_DIR$/cw-pair-java/cw-pair-java.iml" filepath="$PROJECT_DIR$/cw-pair-java/cw-pair-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/cw-pair-scala/cw-pair-scala.iml" filepath="$PROJECT_DIR$/cw-pair-scala/cw-pair-scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercises/design patterns 1/design patterns 1.iml" filepath="$PROJECT_DIR$/exercises/design patterns 1/design patterns 1.iml" />
