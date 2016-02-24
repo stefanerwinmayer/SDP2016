@@ -4,6 +4,7 @@
     <option name="DEFAULT_COMPILER" value="Javac" />
     <excludeFromCompile>
       <file url="file://$USER_HOME$/Dropbox/Courses/PiJ/2014-15/code/revision/generics/src/generics/RecursiveSum.java" />
+      <file url="file://$PROJECT_DIR$/exercises/design patterns 1/src/evo/sdfsda_ESTest.java" />
     </excludeFromCompile>
     <resourceExtensions />
     <wildcardResourcePatterns>
