@@ -19,7 +19,7 @@ case class Circle(radius: Double) extends Shape {
   def area(): Double = 2 * math.Pi * radius * radius
 }
 
-trait Rectangular extends Shape {
+sealed trait Rectangular extends Shape {
   val x: Double
   val y: Double
 
@@ -49,3 +49,33 @@ object  Main extends App {
   Draw(Circle(10)) // returns "A circle of radius 10cm"
   Draw(Rectangle(3, 4)) // returns "A rectangle of width 3cm and height 4cm"
 }
+
+sealed trait Colour {
+  val r: Int
+  val g: Int
+  val b: Int
+
+  def isLight: Boolean = ((r + g + b) / 2) < 382
+  def isDark: Boolean = !isLight
+}
+
+case object Red extends Colour {
+  val r = 255
+  val g = 0
+  val b = 0
+}
+
+case object Yellow extends Colour {
+  val r = 255
+  val g = 255
+  val b = 0
+}
+
+case object Pink extends Colour {
+  val r = 255
+  val g = 192
+  val b = 203
+}
+
+case class CustomColor(r: Int, g: Int, b:Int ) extends Colour
+
