@@ -24,4 +24,5 @@ object FilmTest extends App {
   eastwood.yearOfBirth // should be 1930
   dieHard.director.name // should be "John McTiernan"
   invictus.isDirectedBy(nolan) // should be false
+
 }
