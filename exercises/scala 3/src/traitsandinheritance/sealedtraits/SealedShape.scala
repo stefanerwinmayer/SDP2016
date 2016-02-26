@@ -3,6 +3,9 @@ package traitsandinheritance.sealedtraits
 /**
   * Created by stefanm on 22/02/2016.
   */
+
+// 5c, 5e
+
 sealed trait Shape {
 
   def sides(): Double
@@ -40,6 +43,8 @@ case class Square(val side: Double, colour: Colour) extends Rectangular {
   val y = side
 }
 
+// 5c, 5e
+
 object Draw {
   def apply(shape: Shape) = shape match {
     case Circle(radius, colour) => println(s"A ${getColour(colour)} circle of radius ${radius}cm")
@@ -60,6 +65,8 @@ object  Main extends App {
   Draw(Rectangle(3, 4, Pink)) // returns "A rectangle of width 3cm and height 4cm"
   Draw(Square(6, CustomColor(255, 255, 255)))
 }
+
+// 5d
 
 sealed trait Colour {
   val r: Int
