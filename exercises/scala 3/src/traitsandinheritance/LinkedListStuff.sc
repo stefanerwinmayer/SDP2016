@@ -1,3 +1,5 @@
+// 8
+
 sealed trait LinkedList[A] {
   def length: Int = this match {
     case Empty() => 0
