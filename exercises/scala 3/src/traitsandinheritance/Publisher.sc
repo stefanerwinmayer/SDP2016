@@ -1,3 +1,5 @@
+// 7
+
 trait Publication
 
 class Book(val length: Int, val author: Int) extends Publication with Manuscript
