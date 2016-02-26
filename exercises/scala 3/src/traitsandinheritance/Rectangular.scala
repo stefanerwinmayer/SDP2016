@@ -3,6 +3,9 @@ package traitsandinheritance
 /**
   * Created by stefanm on 22/02/2016.
   */
+
+// 5b
+
 trait Rectangular extends Shape {
   val x: Double
   val y: Double
