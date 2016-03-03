@@ -26,9 +26,9 @@ class D1 extends B with C
 class D2 extends C with B
 
 object MyMain extends App {
-  (new D1).common == "C"
+  println((new D1).common)
 
-  (new D2).common == "B"
+  println((new D2).common)
 }
 
 /*

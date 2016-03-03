@@ -31,7 +31,7 @@ public class OptionalScript {
         return null;
     }
 
-    static Location getLocationOptional(Optional<User> u){
+    static Location getLocationOptional(Optional<User> u) {
         return null;
     }
 }

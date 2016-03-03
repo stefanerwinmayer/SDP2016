@@ -1,10 +1,10 @@
 package one
 
 class Person {
-  val firstName = "Fred"
+  val firstName = "Steve"
   val lastName = "Jobs"
 
-  def name = s"${firstName} ${lastName}"
+  override def toString() = s"${firstName} ${lastName}"
 }
 
 object Main extends App {

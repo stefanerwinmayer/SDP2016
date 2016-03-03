@@ -19,7 +19,7 @@ public class Database {
     }
 
 	/*
-	private static Database instanceOld;
+    private static Database instanceOld;
 	
 	public static Database getInstanceOld() {
 		if(instanceOld == null) {

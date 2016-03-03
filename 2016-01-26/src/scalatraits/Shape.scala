@@ -6,7 +6,9 @@ trait Shape {
   // perimeter
   // area
   def sides: Int
+
   def perimeter: Double
+
   def area: Double
 }
 
@@ -20,11 +22,13 @@ case class Circle(radius: Double) extends Shape {
 }
 
 trait Rectangular extends Shape {
-  def width: Double
-  def height: Double
   val sides = 4
   val perimeter = 2 * width + 2 * height
   val area = width * height
+
+  def width: Double
+
+  def height: Double
 }
 
 case class Square(size: Double) extends Rectangular {

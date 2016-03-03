@@ -4,7 +4,7 @@ class Stack[T] {
   private var elems: List[T] = Nil
 
   def push(x: T) {
-    elems = x:: elems
+    elems = x :: elems
   }
 
   def top: T = elems.head

@@ -5,9 +5,9 @@ case class Person(firstName: String, lastName: String)
 object Stormtrooper {
   def inspect(p: Person): String =
     p match {
-      case Person("Luke", "Skywalker") => "Stop, rebel scum!"
+      case Person("Luke", "Skywalker") => "Take the money!!! = no lines"
       case Person("Han", "Solo") => "You're good!"
-      case Person(first, last) => s"Move along $first"
+      case Person(first, _) => s"Move along $first"
     }
 }
 

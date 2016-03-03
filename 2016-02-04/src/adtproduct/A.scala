@@ -1,6 +1,7 @@
 package adtproduct
 
 trait B
+
 trait C
 
 class A(b: B, c: C) {
@@ -11,5 +12,6 @@ class A(b: B, c: C) {
 
 trait At {
   def b: B
+
   def c: C
 }

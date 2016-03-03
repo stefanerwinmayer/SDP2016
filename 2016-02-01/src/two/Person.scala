@@ -8,7 +8,7 @@ class Person(first: String, last: String) {
 }
 
 object Main extends App {
-  val p = new Person("David","Dodge")
+  val p = new Person("David", "Dodge")
   println(p)
   //p.name = "asdasd"
   println(p.name)

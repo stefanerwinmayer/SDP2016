@@ -5,8 +5,6 @@ class Foo {
 }
 
 object Foo {
-  def invokeFunction(f: () => Unit) = f()
-
   def main(args: Array[String]) {
     val foo: Foo = new Foo
     val f: (() => Unit) = foo.printState
@@ -15,4 +13,6 @@ object Foo {
     foo.state = 3
     invokeFunction(f)
   }
+
+  def invokeFunction(f: () => Unit) = f()
 }

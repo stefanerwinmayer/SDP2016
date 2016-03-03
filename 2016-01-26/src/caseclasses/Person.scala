@@ -1,6 +1,6 @@
 package caseclasses
 
-case class Person(firstName: String, lastName: String){
+case class Person(firstName: String, lastName: String) {
   def name = firstName + " " + lastName
 }
 

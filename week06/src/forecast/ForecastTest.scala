@@ -1,6 +1,6 @@
 package forecast
 
-import atomic.AtomicTest._
+import atomicscala.AtomicTest._
 
 object MyForecastTest extends App {
   forecast(100) is "Sunny"

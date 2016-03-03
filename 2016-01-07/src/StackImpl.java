@@ -6,7 +6,7 @@ public class StackImpl<T> implements Stack<T> {
 
     @Override
     public void push(T item) {
-        list.add(0,item);
+        list.add(0, item);
     }
 
     @Override
@@ -14,5 +14,5 @@ public class StackImpl<T> implements Stack<T> {
         if (list.isEmpty())
             throw new IndexOutOfBoundsException("Stack is empty - can't pop");
         return list.remove(0);
-   }
+    }
 }

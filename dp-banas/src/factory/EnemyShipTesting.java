@@ -32,7 +32,7 @@ public class EnemyShipTesting {
         }
 
 		/*
-		EnemyShip theEnemy = null;
+        EnemyShip theEnemy = null;
 
 		// Old way of creating objects
 		// When we use new we are not being dynamic

@@ -1,10 +1,16 @@
 public class A {
-    void f(){}
-    void f(int a, int b){}
+    void f() {
+    }
+
+    void f(int a, int b) {
+    }
 }
 
 class B extends A {
     @Override
-    void f() {}
-    void f(int a){}
+    void f() {
+    }
+
+    void f(int a) {
+    }
 }

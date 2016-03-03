@@ -1,5 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Osmorc" name="OSGi">
+      <configuration manifestGenerationMode="Manually" manifestLocation="META-INF/MANIFEST.MF" jarfileLocation="SDP2016.jar" outputPathType="CompilerOutputPath" bndFileLocation="" bundlorFileLocation="" bundleActivator="" bundleSymbolicName="" bundleVersion="1.0.0" ignoreFilePattern="" useProjectDefaultManifestFileLocation="false" alwaysRebuildBundleJAR="false" doNotSynchronizeWithMaven="false">
+        <additionalProperties />
+        <additionalJARContents />
+      </configuration>
+    </facet>
+    <facet type="javaeeApplication" name="javaEEApplication">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/week07/src/util/parsing/combinator/SubSequence.scala" />
+        </descriptors>
+      </configuration>
+    </facet>
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/springdi/src/anno.xml</file>
+          <file>file://$MODULE_DIR$/springdi/src/simple/Beans.xml</file>
+          <file>file://$MODULE_DIR$/springdi_scala/src/dixmlcons.xml</file>
+          <file>file://$MODULE_DIR$/springdi_scala/src/autoscan.xml</file>
+          <file>file://$MODULE_DIR$/springdi/src/dixml.xml</file>
+          <file>file://$MODULE_DIR$/springdi_scala/src/Beans.xml</file>
+          <file>file://$MODULE_DIR$/springdi_scala/src/dixml.xml</file>
+          <file>file://$MODULE_DIR$/springdi_scala/src/anno.xml</file>
+          <file>file://$MODULE_DIR$/springdi/src/dixmlcons.xml</file>
+          <file>file://$MODULE_DIR$/springdi/src/autoscan.xml</file>
+        </fileset>
+      </configuration>
+    </facet>
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/week07/src/util/parsing/combinator/Parsers.scala" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/week07/src/util/parsing/combinator" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="" />
+        <datasource-mapping />
+        <deploymentDescriptor name="persistence.xml" url="file://$MODULE_DIR$/week07/src/util/parsing/input/CharSequenceReader.scala" />
+      </configuration>
+    </facet>
+    <facet type="ejb" name="EJB">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="ejb-jar.xml" url="file://$MODULE_DIR$/week07/src/util/parsing/combinator/JavaTokenParsers.scala" />
+        </descriptors>
+        <ejbRoots>
+          <root url="file://$MODULE_DIR$/src" />
+        </ejbRoots>
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
@@ -7,6 +66,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="scala-sdk-2.11.7 (2)" level="application" />
+    <orderEntry type="library" name="scala-sdk-2.11.7 (2)" level="application" />
   </component>
   <component name="org.twodividedbyzero.idea.findbugs">
     <option name="_basePreferences">

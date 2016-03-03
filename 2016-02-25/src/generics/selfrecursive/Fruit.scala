@@ -16,8 +16,8 @@ case class Apple() extends Fruit
 case class Orange() extends Fruit
 
 object MyMain extends App {
-  val apple = new Apple()
-  val orange = new Orange()
+  val apple = Apple()
+  val orange = Orange()
 
   apple compareTo orange // compiles, but we want to make this NOT compile!
 }

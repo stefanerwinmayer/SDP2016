@@ -6,6 +6,8 @@ public class TestCovariant {
     List<Aa> alist = new ArrayList<>(); // invariant
 }
 
-class Aa {}
+class Aa {
+}
 
-class Bb extends Aa {}
+class Bb extends Aa {
+}

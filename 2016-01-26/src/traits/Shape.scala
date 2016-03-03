@@ -3,8 +3,10 @@ package traits
 trait Shape {
   // sides - returns the number of sides
   def sides: Int
+
   // perimeter - returns the total length of the sides
   def perimeter: Double
+
   // area - returns that area
   def area: Double
 }

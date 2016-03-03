@@ -1,4 +1,4 @@
-import atomic.AtomicTest._
+import atomicscala.AtomicTest._
 
 class Coffee(val shots: Int = 2,
              val decaf: Boolean = false,

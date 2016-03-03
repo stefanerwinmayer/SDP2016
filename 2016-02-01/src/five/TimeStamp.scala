@@ -10,7 +10,7 @@ object TimeStamp {
 object Test extends App {
   val t = TimeStamp.apply() // equiv TimeStamp()
   println(t.seconds)
-  val t2 = TimeStamp(1,1,1)
+  val t2 = TimeStamp(1, 1, 1)
   println(t2.seconds)
   println(t2)
 }

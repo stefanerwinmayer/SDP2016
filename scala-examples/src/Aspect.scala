@@ -4,6 +4,8 @@ trait Channel {
 
 object LogAspect {
 
+  def log() = println("logging!")
+
   trait LogAfter extends Channel {
     // before advice
     abstract override def send(x: String) = {
@@ -19,8 +21,6 @@ object LogAspect {
       log()
     }
   }
-
-  def log() = println("logging!")
 }
 
 object TestAspect {

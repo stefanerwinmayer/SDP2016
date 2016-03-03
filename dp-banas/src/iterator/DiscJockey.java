@@ -18,7 +18,7 @@ public class DiscJockey {
     SongIterator iter90sSongs;
 
 	/* OLD WAY
-	public DiscJockey(SongsOfThe70s newSongs70s, SongsOfThe80s newSongs80s, SongsOfThe90s newSongs90s) {
+    public DiscJockey(SongsOfThe70s newSongs70s, SongsOfThe80s newSongs80s, SongsOfThe90s newSongs90s) {
 
 		songs70s = newSongs70s;
 		songs80s = newSongs80s;

@@ -38,10 +38,10 @@ object StandardFamily extends Family {
 
 object Test extends App {
 
-  def assignFamily(f: Family) = ()
-
   val father = new StandardFamily.Father("John")
   val upperClassMother = new UpperClassFamily.Mother("Dorthea III", "XXX")
+
+  def assignFamily(f: Family) = ()
   //father.kiss(upperClassMother) // illegal!
   println(father)
   println(upperClassMother)
