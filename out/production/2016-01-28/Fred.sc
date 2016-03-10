@@ -1,6 +1,4 @@
-object Thing extends App {
-  println("asdad")
-}
+def getSquare(x: Int): Int = x * x
 
 3 + 3
 
@@ -9,5 +7,7 @@ object Thing extends App {
 
 
 
-def getSquare(x: Int): Int = x * x
+object Thing extends App {
+  println("asdad")
+}
 assert(getSquare(3) == 8)

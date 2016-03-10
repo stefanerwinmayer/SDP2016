@@ -1,3 +1,5 @@
+// 8
+
 sealed trait LinkedList[A] {
   def length: Int = this match {
     case Empty() => 0
@@ -17,13 +19,14 @@ sealed trait LinkedList[A] {
 
 case class Pair[A](head: A, tail: LinkedList[A]) extends LinkedList[A]
 case class Empty[A]() extends LinkedList[A]
+
 val list: LinkedList[Int] = Pair(1, Pair(2, Pair(3, Empty())))
 list.isInstanceOf[LinkedList[Int]] // returns true
 
-//list.head
+list.head
 // returns 1 as an Int
-//list.tail.head // returns 2 as an Int
-//list.tail.tail // returns Pair(3, Empty()) as a LinkedList[Int]
+list.tail.head // returns 2 as an Int
+list.tail.tail // returns Pair(3, Empty()) as a LinkedList[Int]
 
 
 

@@ -26,3 +26,11 @@ object FilmTest extends App {
   invictus.isDirectedBy(nolan) // should be false
 
 }
+
+// Keith missed the the following
+case class Director(first: String, last: String, yearOfBirth: Int) {
+  def name = first + last
+}
+case class Film(title: String, year: Int, rating: Double, director: Director) {
+  def isDirectedBy(director: Director) = if (director == this.director) true else false
+}

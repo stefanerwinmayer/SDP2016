@@ -1,4 +1,4 @@
-
+// 6
 
 sealed trait DivisionResult
 

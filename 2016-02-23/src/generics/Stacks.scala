@@ -28,6 +28,6 @@ object VariancesTest extends App {
   println(s)
 }
 
-trait Person
-case class Student() extends Person
-case class Academic() extends Person
+//trait Person
+//case class Student() extends Person
+//case class Academic() extends Person

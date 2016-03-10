@@ -5,367 +5,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cd970e5-3819-4b2f-ad07-1e143a66e6c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/AbstractCar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/AbstractEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/AbstractVan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/AbstractVehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/BoxVan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/Coupe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/Pickup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/Saloon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/Sport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/StandardEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/TurboEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/Vehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/AbstractVehicleFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/Body.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/CarBody.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/CarChassis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/CarFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/CarWindows.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/Chassis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/VanBody.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/VanChassis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/VanFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/VanWindows.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/Windows.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter03-Builder/CarBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter03-Builder/CarDirector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter03-Builder/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter03-Builder/VanBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter03-Builder/VanDirector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter03-Builder/VehicleBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter03-Builder/VehicleDirector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter04-Factory-Method/CarFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter04-Factory-Method/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter04-Factory-Method/VanFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter04-Factory-Method/VehicleFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/AbstractCar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/AbstractEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/AbstractVan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/AbstractVehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/BoxVan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/Coupe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/Pickup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/Saloon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/Sport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/StandardEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/TurboEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/Vehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/VehicleManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/VehicleManagerLazy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter06-Singleton/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter06-Singleton/SerialNumberGenerator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter06-Singleton/SerialNumberGeneratorTraditional.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter07-Adapter/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter07-Adapter/SuperGreenEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter07-Adapter/SuperGreenEngineAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/AbstractDriverControls.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/AbstractEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/SportControls.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/StandardControls.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/StandardEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/TurboEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter09-Composite/Assembly.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter09-Composite/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter09-Composite/Item.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter09-Composite/Part.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/AbstractCar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/AbstractEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/AbstractVan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/AbstractVehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/AbstractVehicleOption.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/AirConditionedVehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/AlloyWheeledVehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/BoxVan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/Coupe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/LeatherSeatedVehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/MetallicPaintedVehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/Pickup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/Saloon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/SatNavVehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/Sport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/StandardEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/TurboEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/Vehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/AbstractCar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/AbstractEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/AbstractVan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/AbstractVehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/BoxVan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Coupe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Documentation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Pickup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Registration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Saloon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Sport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/StandardEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/TurboEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Vehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/VehicleFacade.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/AbstractEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/DiagnosticTool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/EngineDiagnosticTool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/EngineFlyweightFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/StandardEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/TurboEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter13-Proxy/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter13-Proxy/EngineProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/AbstractEmailHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/EmailHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/GeneralEnquiriesEmailHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/ManagerEmailHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/SalesEmailHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/ServiceEmailHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/SpamEmailHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/Command.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/ElectricWindow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/Radio.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/SpeechRecogniser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/VolumeDownCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/VolumeUpCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/WindowDownCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/WindowUpCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/City.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/CityExpression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/DirectionalEvaluator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/DirectionalEvaluatorSAVE.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/Expression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/MostEasterlyExpression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/MostNortherlyExpression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/MostSoutherlyExpression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/MostWesterlyExpression.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter17-Iterator/CarRange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter17-Iterator/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter17-Iterator/VanRange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter18-Mediator/Accelerator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter18-Mediator/Brake.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter18-Mediator/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter18-Mediator/EngineManagementSystem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter18-Mediator/Gearbox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter18-Mediator/Ignition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter19-Memento/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter19-Memento/Speedometer1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter19-Memento/Speedometer2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter19-Memento/SpeedometerMemento1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter19-Memento/SpeedometerMemento2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/AutomaticGearbox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/SpeedMonitor1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/SpeedMonitor2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/Speedometer1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/Speedometer2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/SpeedometerEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/SpeedometerListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/ClockSetup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/ClockSetupState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/DaySetupState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/FinishedSetupState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/HourSetupState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/MinuteSetupState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/MonthSetupState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/YearSetupState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/AbstractCar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/AbstractEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/AbstractVan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/AbstractVehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/BoxVan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/Coupe.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/GearboxStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/Pickup.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/Saloon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/Sport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/SportGearboxStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/StandardEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/StandardGearboxStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/TurboEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/Vehicle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter23-Template-Method/AbstractBookletPrinter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter23-Template-Method/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter23-Template-Method/SaloonBooklet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter23-Template-Method/ServiceHistoryBooklet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/AbstractEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/Camshaft.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/EngineDiagnostics.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/EngineInventory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/EngineVisitor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/Piston.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/SparkPlug.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/StandardEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/TurboEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/Visitable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter25-Null-Object/BrakeFluidLight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter25-Null-Object/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter25-Null-Object/NullObjectLight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter25-Null-Object/OilLevelLight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter25-Null-Object/WarningLight.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter26-Simple-Factory/AutomaticGearbox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter26-Simple-Factory/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter26-Simple-Factory/Gearbox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter26-Simple-Factory/GearboxFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter26-Simple-Factory/ManualGearbox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter27-MVC/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter27-MVC/SatNavController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter27-MVC/SatNavModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter27-MVC/SatNavView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter28-Layers/note.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/business/AbstractEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/business/BusinessFacade.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/business/Engine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/business/EngineFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/business/StandardEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/business/TurboEngine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/AbstractEntityPersistenceStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/DatabaseFacade.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/EntityCSVStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/EntityEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/EntityKeyGenerator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/EntityListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/EntitySerializationStrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/EntityTable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/main/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/ui/BuildEngineDialog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/ui/EnginesFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/ui/ManageEnginesPanel.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-01-21/src/q1_2/A.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-01-21/src/q4a/Thingy.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-01-21/src/q4b/Thingy.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/default/src_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/default/scala_2.10/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-compile-internal.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-compile-internal.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-compile.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-compile.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-docs.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-docs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-optional.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-optional.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-plugin.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-plugin.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-pom.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-pom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-provided.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-provided.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-runtime-internal.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-runtime-internal.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-runtime.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-runtime.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-scala-tool.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-scala-tool.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-sources.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-sources.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-test-internal.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-test-internal.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-test.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-test.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/ivy-report.css" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/ivy-report.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/ivy-report.xsl" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/ivy-report.xsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-07/src/A.java" afterPath="$PROJECT_DIR$/2016-01-07/src/A.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-07/src/StackImpl.java" afterPath="$PROJECT_DIR$/2016-01-07/src/StackImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-07/src/TestCovariant.java" afterPath="$PROJECT_DIR$/2016-01-07/src/TestCovariant.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-12/src/initialclient/AClient.java" afterPath="$PROJECT_DIR$/2016-01-12/src/initialclient/AClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-12/src/secondclient/AClient.java" afterPath="$PROJECT_DIR$/2016-01-12/src/secondclient/AClient.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-12/src/thirdclient/AFactory.java" afterPath="$PROJECT_DIR$/2016-01-12/src/thirdclient/AFactory.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/2016-01-26.iml" afterPath="$PROJECT_DIR$/2016-01-26/2016-01-26.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/QuestionMark.sc" afterPath="$PROJECT_DIR$/2016-01-26/src/QuestionMark.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/Test.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/Test.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/caseclasses/Person.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/caseclasses/Person.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/caseclasses/Stormtrooper.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/caseclasses/Stormtrooper.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/comp/Film.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/comp/Film.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/counters/Counter.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/counters/Counter.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/films/Director.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/films/Director.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/films/Film.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/films/Film.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/myFirst/HelloWorld.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/myFirst/HelloWorld.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/myFirst/Person.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/myFirst/Person.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/scalacheck/StringSpecification.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/scalacheck/StringSpecification.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/scalatraits/Shape.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/scalatraits/Shape.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/traits/Shape.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/traits/Shape.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/traits/User.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/traits/User.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/worksheet.sc" afterPath="$PROJECT_DIR$/2016-01-26/worksheet.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/Arrays.scala" afterPath="$PROJECT_DIR$/2016-01-28/src/Arrays.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/Fred.sc" afterPath="$PROJECT_DIR$/2016-01-28/src/Fred.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/Hello.scala" afterPath="$PROJECT_DIR$/2016-01-28/src/Hello.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/QuestionMark.sc" afterPath="$PROJECT_DIR$/2016-01-28/src/QuestionMark.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/Test.scala" afterPath="$PROJECT_DIR$/2016-01-28/src/Test.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/observer/Test.scala" afterPath="$PROJECT_DIR$/2016-01-28/src/observer/Test.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/scalacheck/StringSpecification.scala" afterPath="$PROJECT_DIR$/2016-01-28/src/scalacheck/StringSpecification.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/default/src_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/default/src_2.10/0.1-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-compile-internal.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-compile.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-docs.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-optional.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-plugin.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-pom.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-provided.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-runtime-internal.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-runtime.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-scala-tool.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-sources.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-test-internal.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-test.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/ivy-report.css" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/ivy-report.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/ivy-report.xsl" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/ivy-report.xsl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/adthas/HasaOr.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/adthas/HasaOr.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/adtisa/IsaAnd.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/adtisa/IsaAnd.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/adtproduct/A.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/adtproduct/A.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/adtsum/A.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/adtsum/A.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/eight/Visitor.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/eight/Visitor.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/five/TimeStamp.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/five/TimeStamp.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/nine/A.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/nine/A.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/three/Person.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/three/Person.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/two/Person.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/two/Person.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/A.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/A.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/AnotherOne.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/AnotherOne.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/Matrix.txt" afterPath="$PROJECT_DIR$/2016-02-04/src/Matrix.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/XXX.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/XXX.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reflection-scala/reflection-scala.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springdi_scala/springdi_scala.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springdi-scala/Beans.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springdi-scala/anno.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springdi-scala/autoscan.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springdi-scala/di/beans.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springdi-scala/dixml.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springdi-scala/dixmlcons.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/springdi-scala/helloworld/beans.properties" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/excludeFromValidation.xml" afterPath="$PROJECT_DIR$/.idea/excludeFromValidation.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/2016-01-28.iml" afterPath="$PROJECT_DIR$/2016-01-28/2016-01-28.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/YYY.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/YYY.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/adthas/HasaOr.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/adthas/HasaOr.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/adtisa/IsaAnd.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/adtisa/IsaAnd.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/adtproduct/A.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/adtproduct/A.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/adtsum/A.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/adtsum/A.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/atomicexample/Test.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/atomicexample/Test.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/atomicscala/AtomicTest.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/atomicscala/AtomicTest.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/eight/Visitor.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/eight/Visitor.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/five/TimeStamp.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/five/TimeStamp.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/one/Person.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/one/Person.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/seven/Person.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/seven/Person.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/three/Person.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/three/Person.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/two/Person.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/two/Person.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-06/Test.sc" afterPath="$PROJECT_DIR$/2016-02-06/Test.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/Complex.scala" afterPath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/Complex.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/Reference.scala" afterPath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/Reference.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/Timer.scala" afterPath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/Timer.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/TimerAnonymous.scala" afterPath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/TimerAnonymous.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/traits/Ord.scala" afterPath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/traits/Ord.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/tree/Tree.scala" afterPath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/tree/Tree.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-12/README.md" afterPath="$PROJECT_DIR$/2016-02-12/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SDP2016.iml" afterPath="$PROJECT_DIR$/SDP2016.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/designpatterns/src/observerscratch/view/LoginFormEvent.java" afterPath="$PROJECT_DIR$/designpatterns/src/observerscratch/view/LoginFormEvent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/designpatterns/src/singleton/model/Database.java" afterPath="$PROJECT_DIR$/designpatterns/src/singleton/model/Database.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp-banas/src/command/PlayWithRemote.java" afterPath="$PROJECT_DIR$/dp-banas/src/command/PlayWithRemote.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp-banas/src/factory/EnemyShipTesting.java" afterPath="$PROJECT_DIR$/dp-banas/src/factory/EnemyShipTesting.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp-banas/src/flyweight/FlyWeightTest.java" afterPath="$PROJECT_DIR$/dp-banas/src/flyweight/FlyWeightTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp-banas/src/iterator/DiscJockey.java" afterPath="$PROJECT_DIR$/dp-banas/src/iterator/DiscJockey.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp-banas/src/reflection/UFOEnemyShip.java" afterPath="$PROJECT_DIR$/dp-banas/src/reflection/UFOEnemyShip.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp-banas/src/strategy/Animal.java" afterPath="$PROJECT_DIR$/dp-banas/src/strategy/Animal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp-banas/src/template/ItalianSub.java" afterPath="$PROJECT_DIR$/dp-banas/src/template/ItalianSub.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java8/src/optional/OptionalScript.java" afterPath="$PROJECT_DIR$/java8/src/optional/OptionalScript.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mop/src/Example.groovy" afterPath="$PROJECT_DIR$/mop/src/Example.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Aspect.scala" afterPath="$PROJECT_DIR$/scala-examples/src/Aspect.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Cell.scala" afterPath="$PROJECT_DIR$/scala-examples/src/Cell.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Family.scala" afterPath="$PROJECT_DIR$/scala-examples/src/Family.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Foo.scala" afterPath="$PROJECT_DIR$/scala-examples/src/Foo.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Rational.scala" afterPath="$PROJECT_DIR$/scala-examples/src/Rational.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Slides.sc" afterPath="$PROJECT_DIR$/scala-examples/src/Slides.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Slides2.sc" afterPath="$PROJECT_DIR$/scala-examples/src/Slides2.sc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Stack.scala" afterPath="$PROJECT_DIR$/scala-examples/src/Stack.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-11/2016-02-11.iml" afterPath="$PROJECT_DIR$/2016-02-11/2016-02-11.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-11/src/sumpattern/Example.scala" afterPath="$PROJECT_DIR$/2016-02-11/src/sumpattern/Example.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-19/2016-02-19.iml" afterPath="$PROJECT_DIR$/2016-02-19/2016-02-19.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-23/2016-02-23.iml" afterPath="$PROJECT_DIR$/2016-02-23/2016-02-23.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-23/src/generics/Stacks.scala" afterPath="$PROJECT_DIR$/2016-02-23/src/generics/Stacks.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-25/2016-02-25.iml" afterPath="$PROJECT_DIR$/2016-02-25/2016-02-25.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RayTracer/RayTracer.iml" afterPath="$PROJECT_DIR$/RayTracer/RayTracer.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atomicscala/atomicscala.iml" afterPath="$PROJECT_DIR$/atomicscala/atomicscala.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dominoes/dominoes.iml" afterPath="$PROJECT_DIR$/dominoes/dominoes.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercise-dp-two-scala/exercise-dp-two-scala.iml" afterPath="$PROJECT_DIR$/exercise-dp-two-scala/exercise-dp-two-scala.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/scala 1/scala 1.iml" afterPath="$PROJECT_DIR$/exercises/scala 1/scala 1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/scala 2/scala 2.iml" afterPath="$PROJECT_DIR$/exercises/scala 2/scala 2.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/exercises/scala 3/scala 3.iml" afterPath="$PROJECT_DIR$/exercises/scala 3/scala 3.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-26/QuestionMark.sc" afterPath="$PROJECT_DIR$/out/production/2016-01-26/QuestionMark.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/Fred.sc" afterPath="$PROJECT_DIR$/out/production/2016-01-28/Fred.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/QuestionMark.sc" afterPath="$PROJECT_DIR$/out/production/2016-01-28/QuestionMark.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/default/src_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/default/src_2.10/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-compile-internal.xml" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-compile.xml" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-docs.xml" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-optional.xml" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-plugin.xml" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-pom.xml" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-provided.xml" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-runtime-internal.xml" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-runtime.xml" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-scala-tool.xml" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-sources.xml" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-test-internal.xml" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-test.xml" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/default-src_2.10-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/ivy-report.css" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/ivy-report.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/ivy-report.xsl" afterPath="$PROJECT_DIR$/out/production/2016-01-28/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/2016-02-04/Matrix.txt" afterPath="$PROJECT_DIR$/out/production/2016-02-04/Matrix.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/scala 3/traitsandinheritance/Division.sc" afterPath="$PROJECT_DIR$/out/production/scala 3/traitsandinheritance/Division.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/scala 3/traitsandinheritance/LinkedListStuff.sc" afterPath="$PROJECT_DIR$/out/production/scala 3/traitsandinheritance/LinkedListStuff.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/scala 3/traitsandinheritance/Publisher.sc" afterPath="$PROJECT_DIR$/out/production/scala 3/traitsandinheritance/Publisher.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/scala-examples/Slides.sc" afterPath="$PROJECT_DIR$/out/production/scala-examples/Slides.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/scala-examples/Slides2.sc" afterPath="$PROJECT_DIR$/out/production/scala-examples/Slides2.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-dp/scala-dp.iml" afterPath="$PROJECT_DIR$/scala-dp/scala-dp.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-exercises/scala-exercises.iml" afterPath="$PROJECT_DIR$/scala-exercises/scala-exercises.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-exercises/src/films/FilmTest.scala" afterPath="$PROJECT_DIR$/scala-exercises/src/films/FilmTest.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scalafx/ScalaFX.iml" afterPath="$PROJECT_DIR$/scalafx/ScalaFX.iml" />
     </list>
     <ignored path="SDP2016.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -387,28 +82,7 @@
     <favorites_list name="SDP2016" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SampleOutput.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cw-pair-scala/src/SampleOutput.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Game.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cw-pair-scala/src/Game.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11383928">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -444,14 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/exercises/design patterns 1/src/singleton/SingletonLazy.java" />
-        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/AbstractParserFactory.java" />
-        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/NYCErrorXMLParser.java" />
-        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/XMLParser.java" />
-        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/ParserFactoryProducer.java" />
-        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/TestAbstractFactoryPattern.java" />
-        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/NYCFactory.java" />
-        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/NYCORDER.java" />
         <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/LondonFEEDBACK.java" />
         <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/LondonFactory.java" />
         <option value="$PROJECT_DIR$/exercises/design patterns 1/src/factorymethod/ConcreteProduct.java" />
@@ -462,7 +128,6 @@
         <option value="$PROJECT_DIR$/exercises/scala 2/src/namedanddefaultarguments/Planet.scala" />
         <option value="$PROJECT_DIR$/exercises/scala 2/src/namedanddefaultarguments/Item.scala" />
         <option value="$PROJECT_DIR$/exercises/scala 2/src/constructors/Tea.scala" />
-        <option value="$PROJECT_DIR$/exercises/scala 2/src/auxiliaryconstructors/ClothesWasher.scala" />
         <option value="$PROJECT_DIR$/exercises/scala 2/src/caseclasses/Person.scala" />
         <option value="$PROJECT_DIR$/exercises/scala 2/src/functionsasobjects/FunctionsAsObjects.sc" />
         <option value="$PROJECT_DIR$/exercises/scala 2/src/parameterisedtypes/ParameterisedTypes.sc" />
@@ -495,6 +160,15 @@
         <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Rectangular.scala" />
         <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/sealedtraits/SealedShape.scala" />
         <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/DivisionGeneric.sc" />
+        <option value="$PROJECT_DIR$/jdpe/src/chapter21-State/Client.java" />
+        <option value="$PROJECT_DIR$/exercises/scala 2/src/auxiliaryconstructors/ClothesWasher.scala" />
+        <option value="$PROJECT_DIR$/2016-02-23/src/generics/Stacks.scala" />
+        <option value="$PROJECT_DIR$/scala-exercises/src/films/FilmTest.scala" />
+        <option value="$PROJECT_DIR$/jdpe/src/chapter20-Observer/SpeedMonitor1.java" />
+        <option value="$PROJECT_DIR$/jdpe/src/chapter20-Observer/AutomaticGearbox.java" />
+        <option value="$PROJECT_DIR$/di-scala/src/macwire/eager/ManualDI.scala" />
+        <option value="$PROJECT_DIR$/2016-02-11/src/sumpattern/Example.scala" />
+        <option value="$PROJECT_DIR$/2016-02-04/src/YYY.scala" />
       </list>
     </option>
   </component>
@@ -617,6 +291,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -625,10 +300,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SDP2016" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SDP2016" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -643,7 +327,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/2016-01-28/2016-01-28.iml" />
     <property name="SearchEverywhereHistoryKey" value="HelloWorldSpringWithDIXMLFileConstructorArgument&#9;PSI&#9;JAVA://dixmlcons.HelloWorldSpringWithDIXMLFileConstructorArgument&#10;HelloWorldSpringWithDI&#9;PSI&#9;JAVA://di.HelloWorldSpringWithDI" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="285" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
@@ -681,18 +365,9 @@
       <recent name="observer" />
       <recent name="adapter" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\scala 3\src\traitsandinheritance" />
-      <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\scala 3\src\traitsandinheritance\sealedtraits" />
-      <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\scala 3\src" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="traitsandinheritance" />
       <recent name="traitsandinheritance.sealedtraits" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-      <recent name="spock.lang.Specification" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\cw-one\src" />
@@ -700,6 +375,15 @@
       <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\design patterns 2" />
       <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\design patterns 1\src\singleton" />
       <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\design patterns 2\src\abstractfactory" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="spock.lang.Specification" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\scala 3\src\traitsandinheritance" />
+      <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\scala 3\src\traitsandinheritance\sealedtraits" />
+      <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\scala 3\src" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main (2)">
@@ -1563,6 +1247,7 @@
       <workItem from="1456486220019" duration="3411000" />
       <workItem from="1456746125534" duration="265000" />
       <workItem from="1457624479516" duration="56000" />
+      <workItem from="1457624960885" duration="3056000" />
     </task>
     <task id="LOCAL-00086" summary="Fixed some scala dependencies">
       <created>1455288089547</created>
@@ -1879,7 +1564,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130223000" />
+    <option name="totallyTimeSpent" value="133279000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1895,36 +1580,36 @@
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5042644" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.42910448" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4978678" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4978678" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.49573562" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2563966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.49573562" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="EvoSuite" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955106" sideWeight="0.49710983" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3430736" sideWeight="0.3859275" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.42910448" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31493506" sideWeight="0.4632196" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4978678" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4978678" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.49573562" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2563966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.49573562" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955106" sideWeight="0.49710983" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3430736" sideWeight="0.3859275" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="PMD" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39867842" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31493506" sideWeight="0.4632196" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.48400852" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1979,146 +1664,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/exercises/design patterns 1/src/factorymethod/ConcreteProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26333907">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/design patterns 1/src/adapter/PayDAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17555939">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/design patterns 1/src/adapter/PayD.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09659091">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/design patterns 1/src/adapter/XpayImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2125">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scala-examples/scala-examples.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5602273">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016-02-11/src/sumpattern/Example.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34772727">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016-02-12/src/calcpm/Calculator.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08585858">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016-02-12/src/patternmatching/product.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42728904">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016-02-12/src/patternmatching/sum.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016-02-12/src/treepoly/TreePoly.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6296296">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/namedanddefaultarguments/SimpleTime2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45791245">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/namedanddefaultarguments/SimpleTime.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.057239056">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/classargs/TestArgs.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.026936026">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/namedanddefaultarguments/Planet.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.057239056">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/constructors/Tea.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.057239056">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/auxiliaryconstructors/ClothesWasher.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3148148">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/namedanddefaultarguments/Item.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20101352">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/caseclasses/Person.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5743243">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/forecast/MyForecastTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05743243">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/functionsasobjects/FunctionsAsObjects.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3760186">
@@ -2231,20 +1776,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Circle.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22972973">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016-02-23/src/generics/Stacks.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5691964">
-          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/LinkedListStuff.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09895227">
@@ -2308,10 +1839,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/DivisionGeneric.sc">
+    <entry file="file://$PROJECT_DIR$/SDP2016.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5145518">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdpe/src/chapter21-State/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1761658">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cw-pair-scala/src/Game.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1761658">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2323,7 +1870,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SDP2016.iml">
+    <entry file="file://$PROJECT_DIR$/exercises/scala 1/Creating Classes.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2331,10 +1878,180 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cw-pair-scala/src/Game.scala">
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/DivisionGeneric.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11383928">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.8154982">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Circle.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23488773">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 1/Vectors.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15682657">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/auxiliaryconstructors/ClothesWasher.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016-02-25/2016-02-25.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016-02-23/src/generics/Contra.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03794643">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016-02-23/src/generics/Stacks.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38169256">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016-02-19/src/genericsFunc/FuncGen.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51227677">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala-exercises/src/films/FilmTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58721936">
+          <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala-examples/src/Cell.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49913645">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scalafx/src/exampleone/Example.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7046632">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="e#20#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_66/src.zip!/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="803" column="16" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdpe/src/chapter20-Observer/SpeedMonitor1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029360967">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jdpe/src/chapter20-Observer/AutomaticGearbox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29360968">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1004#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-dp-two/src/composite/TestCompositePattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-dp-two/src/abstractfactory/TestAbstractFactoryPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.058721934">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016-01-28/src/scalacheck/StringSpecification.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45535713">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#20#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016-02-04/src/YYY.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34151787">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016-02-11/src/sumpattern/Example.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20870535">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/di-scala/src/macwire/eager/ManualDI.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-dp-two/src/abstractfactory/AbstractParserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07589286">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -2392,7 +2109,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>cw-pair-scala</last-edited>
+          <last-edited>2016-02-01</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
