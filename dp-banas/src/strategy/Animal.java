@@ -77,7 +77,7 @@ public class Animal {
     }
 
 	/* BAD
-	* You don't want to add methods to the super class.
+    * You don't want to add methods to the super class.
 	* You need to separate what is different between subclasses
 	* and the super class
 	public void fly(){

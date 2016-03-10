@@ -2,11 +2,9 @@ object Aliases extends App {
   type User = String
   type Age = Int
 
-  // Map[String,Int]
+  //Map[String,Int]
 
   val data:  Map[User, Age] =  Map.empty
-
-
 
   trait SimpleContainer {
     type A      // Abstract Type Member

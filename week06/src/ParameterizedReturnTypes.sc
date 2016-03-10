@@ -1,4 +1,4 @@
-import atomic.AtomicTest._
+import atomicscala.AtomicTest._
 
 // Return type is inferred:
 def inferred(c1: Char, c2: Char, c3: Char) = {

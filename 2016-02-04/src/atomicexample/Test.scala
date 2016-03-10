@@ -3,8 +3,8 @@ package atomicexample
 import atomicscala.AtomicTest._
 
 class Cup {
-  var percentFull = 0
   val max = 100
+  var percentFull = 0
 
   def add(increase: Int): Int = {
     percentFull += increase

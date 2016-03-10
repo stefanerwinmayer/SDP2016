@@ -86,7 +86,7 @@ public class PlayWithRemote {
         //----------------------------------------------------------
 
 		/*
-		 * It is common to be able to undo a command in a command pattern
+         * It is common to be able to undo a command in a command pattern
 		 * To do so, DeviceButton will have a method called undo
 		 * Undo() will perform the opposite action that the normal
 		 * Command performs. undo() needs to be added to every class

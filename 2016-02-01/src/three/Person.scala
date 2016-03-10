@@ -5,7 +5,7 @@ class Person(val firstName: String, val lastName: String) {
 }
 
 object Main extends App {
-  val p = new Person("David","Dodge")
+  val p = new Person("David", "Dodge")
   println(p)
   //p.name = "asdasd"
   println(p.name)

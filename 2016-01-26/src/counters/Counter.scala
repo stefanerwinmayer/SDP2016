@@ -2,7 +2,9 @@ package counters
 
 class Counter(val count: Int) {
   def dec = new Counter(count - 1)
+
   def inc = new Counter(count + 1)
+
   def adjust(adder: Adder) =
     new Counter(adder.add(count))
 }

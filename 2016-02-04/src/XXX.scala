@@ -1,6 +1,9 @@
-/**
-  * Created by keith on 04/02/2016.
-  */
-class XXX {
+// "isa and"
 
-}
+trait BBB
+
+trait CCC
+
+trait DDD
+
+trait AAA extends BBB with CCC with DDD

@@ -5,12 +5,12 @@ package generics.selfrecursivetwo
 // and the only way to satisfy such bounds is by extending this trait as we do with Apple and Orange now.
 // Now if we’d try comparing apple to orange we’ll get a compile time error.
 
-trait Fruit[T <: Fruit[T]] {
+trait Fruit[T <: Fruit[T]] {           // <: === extends // >: === super
   final def compareTo(other: Fruit[T]): Boolean = true // impl doesn't matter in our example
 }
 
-class Apple  extends Fruit[Apple]
-class Orange extends Fruit[Orange]
+class Apple()  extends Fruit[Apple]
+class Orange() extends Fruit[Orange]
 
 object Main extends App {
 

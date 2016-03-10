@@ -10,6 +10,7 @@ object Stormtrooper {
       case Person(fff, _) =>
         s"Move along $fff"
     }
+
   //    if (person.firstName == new Person("Luke", "Skywalker"))
   //      "Stop, rebel scum!"
   //    else if...

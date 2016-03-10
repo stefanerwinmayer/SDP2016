@@ -1,0 +1,4 @@
+            And             Or
+Is-a        xxx             Sum type
+Has-a       Product type    yyy
+

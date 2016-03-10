@@ -11,7 +11,7 @@ String.metaClass = null
 
 String.metaClass.invokeMethod = {
     String name, args ->
-    println("ha")
+        println("ha")
 }
 
 println(msg.shout())

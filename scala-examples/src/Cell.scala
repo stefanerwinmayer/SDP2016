@@ -4,16 +4,16 @@ trait Cell {
   def retrieve
 }
 
-class StandardCell(protected var state: Int) extends Cell {
-  override def save(x: Int) = state = x
-
-  override def retrieve = state
-}
-
 trait Similar {
   def isSimilar(x: Int): Boolean
 
   def isNotSimilar(x: Int): Boolean = !isSimilar(x)
+}
+
+class StandardCell(protected var state: Int) extends Cell {
+  override def save(x: Int) = state = x
+
+  override def retrieve = state
 }
 
 object CellMain extends App {

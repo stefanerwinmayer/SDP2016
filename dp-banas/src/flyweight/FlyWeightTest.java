@@ -73,7 +73,7 @@ public class FlyWeightTest extends JFrame {
 
                     //
                     /*
-	            	MyRect rect = new MyRect(getRandColor(), getRandX(), getRandY(), getRandX(), getRandY());
+                    MyRect rect = new MyRect(getRandColor(), getRandX(), getRandY(), getRandX(), getRandY());
 	            	rect.draw(g);
 	            	*/
 

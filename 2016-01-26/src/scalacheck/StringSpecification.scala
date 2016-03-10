@@ -1,7 +1,7 @@
 package scalacheck
 
-import org.scalacheck.Properties
 import org.scalacheck.Prop.forAll
+import org.scalacheck.Properties
 
 object StringSpecification extends Properties("String") {
 

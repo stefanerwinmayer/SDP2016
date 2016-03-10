@@ -6,10 +6,9 @@ import abstractfactory.EnemyShip;
 import abstractfactory.EnemyShipFactory;
 
 public class UFOEnemyShip extends EnemyShip {
+    EnemyShipFactory shipFactory;
     private ESWeapon weapon;
     private ESEngine engine;
-
-    EnemyShipFactory shipFactory;
     private String idcode = "100";
 
     public UFOEnemyShip(int number, String randString) {

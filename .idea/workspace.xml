@@ -1,0 +1,2431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5cd970e5-3819-4b2f-ad07-1e143a66e6c2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/AbstractCar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/AbstractEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/AbstractVan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/AbstractVehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/BoxVan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/Coupe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/Engine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/Pickup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/Saloon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/Sport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/StandardEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/TurboEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter01-Introduction/Vehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/AbstractVehicleFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/Body.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/CarBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/CarChassis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/CarFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/CarWindows.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/Chassis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/VanBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/VanChassis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/VanFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/VanWindows.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter02-Abstract-Factory/Windows.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter03-Builder/CarBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter03-Builder/CarDirector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter03-Builder/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter03-Builder/VanBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter03-Builder/VanDirector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter03-Builder/VehicleBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter03-Builder/VehicleDirector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter04-Factory-Method/CarFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter04-Factory-Method/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter04-Factory-Method/VanFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter04-Factory-Method/VehicleFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/AbstractCar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/AbstractEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/AbstractVan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/AbstractVehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/BoxVan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/Coupe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/Engine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/Pickup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/Saloon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/Sport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/StandardEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/TurboEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/Vehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/VehicleManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter05-Prototype/VehicleManagerLazy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter06-Singleton/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter06-Singleton/SerialNumberGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter06-Singleton/SerialNumberGeneratorTraditional.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter07-Adapter/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter07-Adapter/SuperGreenEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter07-Adapter/SuperGreenEngineAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/AbstractDriverControls.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/AbstractEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/Engine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/SportControls.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/StandardControls.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/StandardEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter08-Bridge/TurboEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter09-Composite/Assembly.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter09-Composite/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter09-Composite/Item.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter09-Composite/Part.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/AbstractCar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/AbstractEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/AbstractVan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/AbstractVehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/AbstractVehicleOption.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/AirConditionedVehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/AlloyWheeledVehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/BoxVan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/Coupe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/Engine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/LeatherSeatedVehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/MetallicPaintedVehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/Pickup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/Saloon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/SatNavVehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/Sport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/StandardEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/TurboEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter10-Decorator/Vehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/AbstractCar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/AbstractEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/AbstractVan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/AbstractVehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/BoxVan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Coupe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Documentation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Engine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Pickup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Registration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Saloon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Sport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/StandardEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/TurboEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/Vehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter11-Facade/VehicleFacade.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/AbstractEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/DiagnosticTool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/Engine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/EngineDiagnosticTool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/EngineFlyweightFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/StandardEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter12-Flyweight/TurboEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter13-Proxy/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter13-Proxy/EngineProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/AbstractEmailHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/EmailHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/GeneralEnquiriesEmailHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/ManagerEmailHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/SalesEmailHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/ServiceEmailHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter14-CoR/SpamEmailHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/ElectricWindow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/Radio.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/SpeechRecogniser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/VolumeDownCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/VolumeUpCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/WindowDownCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter15-Command/WindowUpCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/City.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/CityExpression.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/DirectionalEvaluator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/DirectionalEvaluatorSAVE.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/Expression.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/MostEasterlyExpression.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/MostNortherlyExpression.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/MostSoutherlyExpression.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter16-Interpreter/MostWesterlyExpression.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter17-Iterator/CarRange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter17-Iterator/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter17-Iterator/VanRange.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter18-Mediator/Accelerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter18-Mediator/Brake.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter18-Mediator/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter18-Mediator/EngineManagementSystem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter18-Mediator/Gearbox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter18-Mediator/Ignition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter19-Memento/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter19-Memento/Speedometer1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter19-Memento/Speedometer2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter19-Memento/SpeedometerMemento1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter19-Memento/SpeedometerMemento2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/AutomaticGearbox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/SpeedMonitor1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/SpeedMonitor2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/Speedometer1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/Speedometer2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/SpeedometerEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter20-Observer/SpeedometerListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/ClockSetup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/ClockSetupState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/DaySetupState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/FinishedSetupState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/HourSetupState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/MinuteSetupState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/MonthSetupState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter21-State/YearSetupState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/AbstractCar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/AbstractEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/AbstractVan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/AbstractVehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/BoxVan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/Coupe.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/Engine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/GearboxStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/Pickup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/Saloon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/Sport.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/SportGearboxStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/StandardEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/StandardGearboxStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/TurboEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter22-Strategy/Vehicle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter23-Template-Method/AbstractBookletPrinter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter23-Template-Method/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter23-Template-Method/SaloonBooklet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter23-Template-Method/ServiceHistoryBooklet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/AbstractEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/Camshaft.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/Engine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/EngineDiagnostics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/EngineInventory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/EngineVisitor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/Piston.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/SparkPlug.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/StandardEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/TurboEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter24-Visitor/Visitable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter25-Null-Object/BrakeFluidLight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter25-Null-Object/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter25-Null-Object/NullObjectLight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter25-Null-Object/OilLevelLight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter25-Null-Object/WarningLight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter26-Simple-Factory/AutomaticGearbox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter26-Simple-Factory/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter26-Simple-Factory/Gearbox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter26-Simple-Factory/GearboxFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter26-Simple-Factory/ManualGearbox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter27-MVC/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter27-MVC/SatNavController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter27-MVC/SatNavModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter27-MVC/SatNavView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter28-Layers/note.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/business/AbstractEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/business/BusinessFacade.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/business/Engine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/business/EngineFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/business/StandardEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/business/TurboEngine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/AbstractEntityPersistenceStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/DatabaseFacade.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/EntityCSVStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/EntityEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/EntityKeyGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/EntityListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/EntitySerializationStrategy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/db/EntityTable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/main/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/ui/BuildEngineDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/ui/EnginesFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdpe/src/chapter29-Sample-n-tier/ui/ManageEnginesPanel.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-01-21/src/q1_2/A.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-01-21/src/q4a/Thingy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/2016-01-21/src/q4b/Thingy.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/default/src_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/default/scala_2.10/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-compile-internal.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-compile-internal.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-compile.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-compile.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-docs.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-docs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-optional.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-optional.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-plugin.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-plugin.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-pom.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-provided.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-provided.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-runtime-internal.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-runtime-internal.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-runtime.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-runtime.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-scala-tool.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-scala-tool.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-sources.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-sources.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-test-internal.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-test-internal.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-test.xml" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/default-scala_2.10-test.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/ivy-report.css" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/ivy-report.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/ivy-report.xsl" afterPath="$PROJECT_DIR$/week02/macwire-examples/src/main/scala/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-07/src/A.java" afterPath="$PROJECT_DIR$/2016-01-07/src/A.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-07/src/StackImpl.java" afterPath="$PROJECT_DIR$/2016-01-07/src/StackImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-07/src/TestCovariant.java" afterPath="$PROJECT_DIR$/2016-01-07/src/TestCovariant.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-12/src/initialclient/AClient.java" afterPath="$PROJECT_DIR$/2016-01-12/src/initialclient/AClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-12/src/secondclient/AClient.java" afterPath="$PROJECT_DIR$/2016-01-12/src/secondclient/AClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-12/src/thirdclient/AFactory.java" afterPath="$PROJECT_DIR$/2016-01-12/src/thirdclient/AFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/2016-01-26.iml" afterPath="$PROJECT_DIR$/2016-01-26/2016-01-26.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/QuestionMark.sc" afterPath="$PROJECT_DIR$/2016-01-26/src/QuestionMark.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/Test.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/Test.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/caseclasses/Person.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/caseclasses/Person.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/caseclasses/Stormtrooper.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/caseclasses/Stormtrooper.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/comp/Film.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/comp/Film.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/counters/Counter.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/counters/Counter.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/films/Director.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/films/Director.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/films/Film.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/films/Film.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/myFirst/HelloWorld.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/myFirst/HelloWorld.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/myFirst/Person.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/myFirst/Person.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/scalacheck/StringSpecification.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/scalacheck/StringSpecification.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/scalatraits/Shape.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/scalatraits/Shape.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/traits/Shape.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/traits/Shape.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/src/traits/User.scala" afterPath="$PROJECT_DIR$/2016-01-26/src/traits/User.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-26/worksheet.sc" afterPath="$PROJECT_DIR$/2016-01-26/worksheet.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/Arrays.scala" afterPath="$PROJECT_DIR$/2016-01-28/src/Arrays.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/Fred.sc" afterPath="$PROJECT_DIR$/2016-01-28/src/Fred.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/Hello.scala" afterPath="$PROJECT_DIR$/2016-01-28/src/Hello.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/QuestionMark.sc" afterPath="$PROJECT_DIR$/2016-01-28/src/QuestionMark.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/Test.scala" afterPath="$PROJECT_DIR$/2016-01-28/src/Test.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/observer/Test.scala" afterPath="$PROJECT_DIR$/2016-01-28/src/observer/Test.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/scalacheck/StringSpecification.scala" afterPath="$PROJECT_DIR$/2016-01-28/src/scalacheck/StringSpecification.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/default/src_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/default/src_2.10/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-compile-internal.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-compile.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-docs.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-optional.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-plugin.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-pom.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-provided.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-runtime-internal.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-runtime.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-scala-tool.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-sources.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-test-internal.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-test.xml" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/default-src_2.10-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/ivy-report.css" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/ivy-report.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/ivy-report.xsl" afterPath="$PROJECT_DIR$/2016-01-28/src/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/adthas/HasaOr.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/adthas/HasaOr.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/adtisa/IsaAnd.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/adtisa/IsaAnd.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/adtproduct/A.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/adtproduct/A.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/adtsum/A.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/adtsum/A.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/eight/Visitor.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/eight/Visitor.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/five/TimeStamp.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/five/TimeStamp.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/nine/A.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/nine/A.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/three/Person.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/three/Person.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-01/src/two/Person.scala" afterPath="$PROJECT_DIR$/2016-02-01/src/two/Person.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/A.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/A.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/AnotherOne.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/AnotherOne.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/Matrix.txt" afterPath="$PROJECT_DIR$/2016-02-04/src/Matrix.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/XXX.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/XXX.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/YYY.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/YYY.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/adthas/HasaOr.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/adthas/HasaOr.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/adtisa/IsaAnd.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/adtisa/IsaAnd.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/adtproduct/A.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/adtproduct/A.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/adtsum/A.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/adtsum/A.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/atomicexample/Test.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/atomicexample/Test.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/atomicscala/AtomicTest.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/atomicscala/AtomicTest.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/eight/Visitor.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/eight/Visitor.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/five/TimeStamp.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/five/TimeStamp.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/one/Person.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/one/Person.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/seven/Person.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/seven/Person.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/three/Person.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/three/Person.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-04/src/two/Person.scala" afterPath="$PROJECT_DIR$/2016-02-04/src/two/Person.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-06/Test.sc" afterPath="$PROJECT_DIR$/2016-02-06/Test.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/Complex.scala" afterPath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/Complex.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/Reference.scala" afterPath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/Reference.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/Timer.scala" afterPath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/Timer.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/TimerAnonymous.scala" afterPath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/TimerAnonymous.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/traits/Ord.scala" afterPath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/traits/Ord.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/tree/Tree.scala" afterPath="$PROJECT_DIR$/2016-02-06/src/tutorialcode/tree/Tree.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016-02-12/README.md" afterPath="$PROJECT_DIR$/2016-02-12/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SDP2016.iml" afterPath="$PROJECT_DIR$/SDP2016.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/designpatterns/src/observerscratch/view/LoginFormEvent.java" afterPath="$PROJECT_DIR$/designpatterns/src/observerscratch/view/LoginFormEvent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/designpatterns/src/singleton/model/Database.java" afterPath="$PROJECT_DIR$/designpatterns/src/singleton/model/Database.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp-banas/src/command/PlayWithRemote.java" afterPath="$PROJECT_DIR$/dp-banas/src/command/PlayWithRemote.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp-banas/src/factory/EnemyShipTesting.java" afterPath="$PROJECT_DIR$/dp-banas/src/factory/EnemyShipTesting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp-banas/src/flyweight/FlyWeightTest.java" afterPath="$PROJECT_DIR$/dp-banas/src/flyweight/FlyWeightTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp-banas/src/iterator/DiscJockey.java" afterPath="$PROJECT_DIR$/dp-banas/src/iterator/DiscJockey.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp-banas/src/reflection/UFOEnemyShip.java" afterPath="$PROJECT_DIR$/dp-banas/src/reflection/UFOEnemyShip.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp-banas/src/strategy/Animal.java" afterPath="$PROJECT_DIR$/dp-banas/src/strategy/Animal.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dp-banas/src/template/ItalianSub.java" afterPath="$PROJECT_DIR$/dp-banas/src/template/ItalianSub.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java8/src/optional/OptionalScript.java" afterPath="$PROJECT_DIR$/java8/src/optional/OptionalScript.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mop/src/Example.groovy" afterPath="$PROJECT_DIR$/mop/src/Example.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Aspect.scala" afterPath="$PROJECT_DIR$/scala-examples/src/Aspect.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Cell.scala" afterPath="$PROJECT_DIR$/scala-examples/src/Cell.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Family.scala" afterPath="$PROJECT_DIR$/scala-examples/src/Family.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Foo.scala" afterPath="$PROJECT_DIR$/scala-examples/src/Foo.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Rational.scala" afterPath="$PROJECT_DIR$/scala-examples/src/Rational.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Slides.sc" afterPath="$PROJECT_DIR$/scala-examples/src/Slides.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Slides2.sc" afterPath="$PROJECT_DIR$/scala-examples/src/Slides2.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scala-examples/src/Stack.scala" afterPath="$PROJECT_DIR$/scala-examples/src/Stack.scala" />
+    </list>
+    <ignored path="SDP2016.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="C:\Users\stefanm\IdeaProjects\SDP2016" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SDP2016" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SampleOutput.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cw-pair-scala/src/SampleOutput.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Game.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cw-pair-scala/src/Game.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.11383928">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="stefanerwinmayer &lt;stefan.e.mayer@gmail.com&gt;" />
+        <option value="stefanerwinmayer" />
+        <option value="stefaner" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/exercises/design patterns 1/src/singleton/SingletonLazy.java" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/AbstractParserFactory.java" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/NYCErrorXMLParser.java" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/XMLParser.java" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/ParserFactoryProducer.java" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/TestAbstractFactoryPattern.java" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/NYCFactory.java" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/NYCORDER.java" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/LondonFEEDBACK.java" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 2/src/abstractfactory/LondonFactory.java" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 1/src/factorymethod/ConcreteProduct.java" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 1/src/adapter/XpayImplTest.java" />
+        <option value="$PROJECT_DIR$/scala-examples/scala-examples.iml" />
+        <option value="$PROJECT_DIR$/exercises/scala 2/src/namedanddefaultarguments/SimpleTime.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 2/src/namedanddefaultarguments/SimpleTime2.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 2/src/namedanddefaultarguments/Planet.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 2/src/namedanddefaultarguments/Item.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 2/src/constructors/Tea.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 2/src/auxiliaryconstructors/ClothesWasher.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 2/src/caseclasses/Person.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 2/src/functionsasobjects/FunctionsAsObjects.sc" />
+        <option value="$PROJECT_DIR$/exercises/scala 2/src/parameterisedtypes/ParameterisedTypes.sc" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/MapAndReduce.sc" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Circle.java" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/MapAndReduce.sc" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Circle.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/SealedShape.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Rectangle.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Draw.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Square.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Red.scala" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 1/src/test.java" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 1/src/observer/SMSUsersTest.groovy" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 1/src/bal.java" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 1/src/observer/SMSUsersTest.java" />
+        <option value="$PROJECT_DIR$/exercises/design patterns 1/src/sdfsda.java" />
+        <option value="$PROJECT_DIR$/cw-pair-scala/src/Factory.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/sealedtraits/Colour.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Colour.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/LinkedList.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/sghsdsd.sc" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/bla.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/LinkedList.sc" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Sum.sc" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/LinkedListStuff.sc" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Publisher.sc" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Division.sc" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Shape.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Rectangular.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/sealedtraits/SealedShape.scala" />
+        <option value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/DivisionGeneric.sc" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CollectionsScala</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Code StyleScala</id>
+          </State>
+          <State>
+            <id>Comparing CollectionsScala</id>
+          </State>
+          <State>
+            <id>GeneralScala</id>
+          </State>
+          <State>
+            <id>Indices CollectionsScala</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Maps CollectionsScala</id>
+          </State>
+          <State>
+            <id>Method signatureScala</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Options CollectionsScala</id>
+          </State>
+          <State>
+            <id>Other CollectionsScala</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Scala</id>
+          </State>
+          <State>
+            <id>Scala: General</id>
+          </State>
+          <State>
+            <id>ScaladocScala</id>
+          </State>
+          <State>
+            <id>Simplifications: filter and exists CollectionsScala</id>
+          </State>
+          <State>
+            <id>Simplifications: other CollectionsScala</id>
+          </State>
+          <State>
+            <id>Size CollectionsScala</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>ScalaStyle</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SDP2016" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance" />
+    <property name="SearchEverywhereHistoryKey" value="HelloWorldSpringWithDIXMLFileConstructorArgument&#9;PSI&#9;JAVA://dixmlcons.HelloWorldSpringWithDIXMLFileConstructorArgument&#10;HelloWorldSpringWithDI&#9;PSI&#9;JAVA://di.HelloWorldSpringWithDI" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="285" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="296" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="299" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="966" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="396" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="395" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="397" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="658" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="SONARLINT_ISSUES_VIEW_SCOPE" value="Current File" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="cores_evosuite_param" value="1" />
+    <property name="time_evosuite_param" value="3" />
+    <property name="memory_evosuite_param" value="2000" />
+    <property name="target_folder_evosuite_param" value="src/evo" />
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_66" />
+    <property name="mvn_location" value="" />
+    <property name="evosuite_jar_location" value="C:\Users\stefanm\lib\evosuite-1.0.3.jar" />
+    <property name="execution_mode" value="MVN" />
+    <property name="evosuite_gui_dialog_width" value="570" />
+    <property name="evosuite_gui_dialog_height" value="395" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="observer" />
+      <recent name="adapter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\scala 3\src\traitsandinheritance" />
+      <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\scala 3\src\traitsandinheritance\sealedtraits" />
+      <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\scala 3\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="traitsandinheritance" />
+      <recent name="traitsandinheritance.sealedtraits" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="spock.lang.Specification" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\cw-one\src" />
+      <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\design patterns 2\src" />
+      <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\design patterns 2" />
+      <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\design patterns 1\src\singleton" />
+      <recent name="C:\Users\stefanm\IdeaProjects\SDP2016\exercises\design patterns 2\src\abstractfactory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration default="false" name="ClothesWashterText" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="auxiliaryconstructors.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="auxiliaryconstructors.ClothesWashterText" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="scala 2" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PersonText" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="caseclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="caseclasses.PersonText" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="scala 2" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="traitsandinheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="traitsandinheritance.sealedtraits.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="scala 3" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main (1)" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="scala 3" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main (2)" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="traitsandinheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="traitsandinheritance.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="scala 3" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AntRunConfiguration" factoryName="Ant Target">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CBConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="HTTP_PORT_X" value="8080" />
+        <option name="JNDI_PORT" value="1099" />
+        <option name="USERNAME" value="" />
+        <option name="PASSWORD" value="" />
+      </server-settings>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016-01-05" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="2016-01-05" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016-01-05" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016-01-05" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016-01-05" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016-01-05" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016-01-05" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016-01-05" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016-01-05" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2016-01-05" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.ClothesWashterText" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PersonText" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main (2)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PersonText" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ClothesWashterText" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cd970e5-3819-4b2f-ad07-1e143a66e6c2" name="Default" comment="" />
+      <created>1453372360573</created>
+      <option name="number" value="Default" />
+      <updated>1453372360573</updated>
+      <workItem from="1453372362370" duration="31000" />
+      <workItem from="1453372406676" duration="1286000" />
+      <workItem from="1453373939347" duration="5738000" />
+      <workItem from="1453382196908" duration="2256000" />
+      <workItem from="1453384629597" duration="2103000" />
+      <workItem from="1453386789832" duration="689000" />
+      <workItem from="1453387500157" duration="143000" />
+      <workItem from="1453387698477" duration="81000" />
+      <workItem from="1453387803263" duration="73000" />
+      <workItem from="1453387901474" duration="587000" />
+      <workItem from="1453388521567" duration="55000" />
+      <workItem from="1453388606381" duration="36000" />
+      <workItem from="1453388684479" duration="135000" />
+      <workItem from="1453388835497" duration="144000" />
+      <workItem from="1453389000611" duration="23000" />
+      <workItem from="1453389282597" duration="1711000" />
+      <workItem from="1453457328219" duration="476000" />
+      <workItem from="1453457817886" duration="455000" />
+      <workItem from="1453458298145" duration="809000" />
+      <workItem from="1453459119639" duration="662000" />
+      <workItem from="1453722608153" duration="676000" />
+      <workItem from="1454063827913" duration="104000" />
+      <workItem from="1454063971924" duration="20000" />
+      <workItem from="1454064329956" duration="12000" />
+      <workItem from="1454065041468" duration="53000" />
+      <workItem from="1454065252206" duration="1521000" />
+      <workItem from="1454340543154" duration="55000" />
+      <workItem from="1454410955317" duration="10729000" />
+      <workItem from="1454426561362" duration="1668000" />
+      <workItem from="1454507407453" duration="5640000" />
+      <workItem from="1454585457911" duration="165000" />
+      <workItem from="1454586042033" duration="554000" />
+      <workItem from="1454586636920" duration="119000" />
+      <workItem from="1454587080205" duration="253000" />
+      <workItem from="1454587349538" duration="16000" />
+      <workItem from="1454588254337" duration="111000" />
+      <workItem from="1454588468402" duration="1077000" />
+      <workItem from="1454589594276" duration="12502000" />
+      <workItem from="1454664821312" duration="19000" />
+      <workItem from="1454664934989" duration="1046000" />
+      <workItem from="1454668998905" duration="277000" />
+      <workItem from="1454669296829" duration="880000" />
+      <workItem from="1454672371946" duration="233000" />
+      <workItem from="1454680616531" duration="730000" />
+      <workItem from="1454936498816" duration="749000" />
+      <workItem from="1454938232615" duration="50000" />
+      <workItem from="1454938376167" duration="10167000" />
+      <workItem from="1455188824907" duration="10000" />
+      <workItem from="1455188911066" duration="12781000" />
+      <workItem from="1455288020203" duration="163000" />
+      <workItem from="1455288339555" duration="130000" />
+      <workItem from="1455288489345" duration="986000" />
+      <workItem from="1455535433493" duration="10000" />
+      <workItem from="1455535514463" duration="6114000" />
+      <workItem from="1455696393863" duration="1097000" />
+      <workItem from="1455727258176" duration="103000" />
+      <workItem from="1455803779255" duration="967000" />
+      <workItem from="1455805516235" duration="9000" />
+      <workItem from="1455895039373" duration="39000" />
+      <workItem from="1455895151025" duration="4138000" />
+      <workItem from="1456138395219" duration="10861000" />
+      <workItem from="1456225097743" duration="2702000" />
+      <workItem from="1456227815871" duration="298000" />
+      <workItem from="1456228129689" duration="1276000" />
+      <workItem from="1456229420935" duration="497000" />
+      <workItem from="1456229933196" duration="2428000" />
+      <workItem from="1456235087550" duration="2408000" />
+      <workItem from="1456241011040" duration="617000" />
+      <workItem from="1456311942314" duration="971000" />
+      <workItem from="1456395933456" duration="1654000" />
+      <workItem from="1456397650811" duration="7380000" />
+      <workItem from="1456406629954" duration="1857000" />
+      <workItem from="1456418597774" duration="76000" />
+      <workItem from="1456486220019" duration="3411000" />
+      <workItem from="1456746125534" duration="265000" />
+      <workItem from="1457624479516" duration="56000" />
+    </task>
+    <task id="LOCAL-00086" summary="Fixed some scala dependencies">
+      <created>1455288089547</created>
+      <option name="number" value="00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1455288089548</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Deleted a modules">
+      <created>1455288593644</created>
+      <option name="number" value="00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1455288593645</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Created a module">
+      <created>1455288802200</created>
+      <option name="number" value="00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1455288802200</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Created a module">
+      <created>1455535691517</created>
+      <option name="number" value="00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1455535691518</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Implemented 'SimpleTime' class">
+      <created>1455536299753</created>
+      <option name="number" value="00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1455536299753</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Implemented 'SimpleTime2' class">
+      <created>1455536467620</created>
+      <option name="number" value="00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1455536467620</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Implemented 'Planet' class">
+      <created>1455536711507</created>
+      <option name="number" value="00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1455536711507</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Updated tests for class 'Planet'">
+      <created>1455536768102</created>
+      <option name="number" value="00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1455536768102</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Implemented class 'Item'">
+      <created>1455537338842</created>
+      <option name="number" value="00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1455537338842</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Implemented class 'Tea'">
+      <created>1455540766345</created>
+      <option name="number" value="00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1455540766345</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Implemented class 'ClothesWasher'">
+      <created>1455541721047</created>
+      <option name="number" value="00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1455541721047</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Implemented class 'Person'">
+      <created>1455541994158</created>
+      <option name="number" value="00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1455541994158</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Added a module">
+      <created>1455895326400</created>
+      <option name="number" value="00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1455895326401</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Added a checkstyle config from upstream">
+      <created>1455895353922</created>
+      <option name="number" value="00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1455895353922</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Implemented exercises for parameterised  types">
+      <created>1455897154004</created>
+      <option name="number" value="00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1455897154004</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Implemented exercises for functions as objects">
+      <created>1455900744727</created>
+      <option name="number" value="00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1455900744727</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Updated comments">
+      <created>1455900826568</created>
+      <option name="number" value="00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1455900826568</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Added new exercise module 'scala 3'">
+      <created>1456139397451</created>
+      <option name="number" value="00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1456139397451</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Added new exercise module 'scala 3'">
+      <created>1456139408685</created>
+      <option name="number" value="00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1456139408685</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Added atomicscala dependency">
+      <created>1456139516641</created>
+      <option name="number" value="00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1456139516641</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Implemented exercises for map and reduce">
+      <created>1456141496501</created>
+      <option name="number" value="00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1456141496501</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Implemented trait 'Shape' and skeleton implements of various shapes">
+      <created>1456143774936</created>
+      <option name="number" value="00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1456143774936</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Fixed the number types for all shapes and trait">
+      <created>1456144014410</created>
+      <option name="number" value="00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1456144014410</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Implemented circle functions">
+      <created>1456144174855</created>
+      <option name="number" value="00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1456144174855</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Implemented Rectangle  functions">
+      <created>1456144239958</created>
+      <option name="number" value="00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1456144239958</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Implemented Square  functions">
+      <created>1456144280078</created>
+      <option name="number" value="00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1456144280078</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Implemented Square  functions">
+      <created>1456144289042</created>
+      <option name="number" value="00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1456144289042</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Fixed the sides of a circle">
+      <created>1456144354471</created>
+      <option name="number" value="00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1456144354471</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Turned shapes into case clases">
+      <created>1456144447030</created>
+      <option name="number" value="00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1456144447030</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Added trait Rectangular and refactored Rectangle and Square">
+      <created>1456145097855</created>
+      <option name="number" value="00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1456145097856</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Implemented sealed trait exercises">
+      <created>1456147693396</created>
+      <option name="number" value="00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1456147693396</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Implemented Colour trait and classes">
+      <created>1456150272629</created>
+      <option name="number" value="00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1456150272629</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Initial commit.">
+      <created>1456312159103</created>
+      <option name="number" value="00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1456312159105</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Moved initial classes into package 'sml'.">
+      <created>1456312321208</created>
+      <option name="number" value="00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1456312321208</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Deleted code for course work 1 to move it into a different project">
+      <created>1456312603281</created>
+      <option name="number" value="00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1456312603281</updated>
+    </task>
+    <task id="LOCAL-00121" summary="Implemented Colour trait and classes">
+      <created>1456312618901</created>
+      <option name="number" value="00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1456312618901</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Implemented Colour trait and updated classes to draw with colours.">
+      <created>1456397518567</created>
+      <option name="number" value="00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1456397518568</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Implemented division exercises.">
+      <created>1456400790181</created>
+      <option name="number" value="00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1456400790182</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Implemented publisher exercises.">
+      <created>1456402391573</created>
+      <option name="number" value="00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1456402391573</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Implemented Linked List exercises.">
+      <created>1456408270721</created>
+      <option name="number" value="00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1456408270722</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Implemented Sum exercises.">
+      <created>1456487013351</created>
+      <option name="number" value="00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1456487013351</updated>
+    </task>
+    <task id="LOCAL-00127" summary="Implemented Sum exercises.">
+      <created>1456487041307</created>
+      <option name="number" value="00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1456487041307</updated>
+    </task>
+    <task id="LOCAL-00128" summary="Added exercise number.">
+      <created>1456487086092</created>
+      <option name="number" value="00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1456487086092</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Added exercise number.">
+      <created>1456487113732</created>
+      <option name="number" value="00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1456487113732</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Added exercise number.">
+      <created>1456487131942</created>
+      <option name="number" value="00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1456487131942</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Added exercise number.">
+      <created>1456487191603</created>
+      <option name="number" value="00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1456487191603</updated>
+    </task>
+    <task id="LOCAL-00132" summary="Added exercise number.">
+      <created>1456487218338</created>
+      <option name="number" value="00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1456487218338</updated>
+    </task>
+    <task id="LOCAL-00133" summary="Added exercise number.">
+      <created>1456487369853</created>
+      <option name="number" value="00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1456487369853</updated>
+    </task>
+    <task id="LOCAL-00134" summary="Implemented generic divison exercise.">
+      <created>1456488355776</created>
+      <option name="number" value="00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1456488355776</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="sdfsda_ESTest - 2016.02.23 at 12h 42m 44s.xml">
+      <configuration name="sdfsda_ESTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sdfsda_ESTest - 2016.02.23 at 12h 46m 00s.xml">
+      <configuration name="sdfsda_ESTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sdfsda_ESTest - 2016.02.23 at 12h 46m 16s.xml">
+      <configuration name="sdfsda_ESTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sdfsda_ESTest - 2016.02.23 at 12h 46m 47s.xml">
+      <configuration name="sdfsda_ESTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="sdfsda_ESTest - 2016.02.23 at 12h 48m 31s.xml">
+      <configuration name="sdfsda_ESTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="130223000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4978678" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5042644" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.42910448" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4978678" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.4978678" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.49573562" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2563966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Analysis" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.49573562" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="EvoSuite" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955106" sideWeight="0.49710983" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3430736" sideWeight="0.3859275" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PMD" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39867842" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31493506" sideWeight="0.4632196" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.48400852" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="Implemented exercises for functions as objects" />
+    <MESSAGE value="Updated comments" />
+    <MESSAGE value="Added new exercise module 'scala 3'" />
+    <MESSAGE value="Added atomicscala dependency" />
+    <MESSAGE value="Implemented exercises for map and reduce" />
+    <MESSAGE value="Implemented trait 'Shape' and skeleton implements of various shapes" />
+    <MESSAGE value="Fixed the number types for all shapes and trait" />
+    <MESSAGE value="Implemented circle functions" />
+    <MESSAGE value="Implemented Rectangle  functions" />
+    <MESSAGE value="Implemented Square  functions" />
+    <MESSAGE value="Fixed the sides of a circle" />
+    <MESSAGE value="Turned shapes into case clases" />
+    <MESSAGE value="Added trait Rectangular and refactored Rectangle and Square" />
+    <MESSAGE value="Implemented sealed trait exercises" />
+    <MESSAGE value="Initial commit." />
+    <MESSAGE value="Moved initial classes into package 'sml'." />
+    <MESSAGE value="Deleted code for course work 1 to move it into a different project" />
+    <MESSAGE value="Implemented Colour trait and classes" />
+    <MESSAGE value="Implemented Colour trait and updated classes to draw with colours." />
+    <MESSAGE value="Implemented division exercises." />
+    <MESSAGE value="Implemented publisher exercises." />
+    <MESSAGE value="Implemented Linked List exercises." />
+    <MESSAGE value="Implemented Sum exercises." />
+    <MESSAGE value="Added exercise number." />
+    <MESSAGE value="Implemented generic divison exercise." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented generic divison exercise." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exercises/design patterns 1/src/factorymethod/ConcreteProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26333907">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/design patterns 1/src/adapter/PayDAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17555939">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/design patterns 1/src/adapter/PayD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09659091">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/design patterns 1/src/adapter/XpayImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2125">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scala-examples/scala-examples.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5602273">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016-02-11/src/sumpattern/Example.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34772727">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016-02-12/src/calcpm/Calculator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08585858">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016-02-12/src/patternmatching/product.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.42728904">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016-02-12/src/patternmatching/sum.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016-02-12/src/treepoly/TreePoly.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6296296">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/namedanddefaultarguments/SimpleTime2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45791245">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/namedanddefaultarguments/SimpleTime.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.057239056">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/classargs/TestArgs.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.026936026">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/namedanddefaultarguments/Planet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.057239056">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/constructors/Tea.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.057239056">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/auxiliaryconstructors/ClothesWasher.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3148148">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/namedanddefaultarguments/Item.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20101352">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/caseclasses/Person.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5743243">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/forecast/MyForecastTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.05743243">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/functionsasobjects/FunctionsAsObjects.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3760186">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/parameterisedtypes/ParameterisedTypes.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/classargs/Family.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14358108">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 2/src/classargs/FlexibleFamily.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14358108">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dp-banas/src/reflection/TestingReflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="201" column="84" selection-start-line="201" selection-start-column="84" selection-end-line="201" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/design patterns 1/src/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14333895">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/design patterns 1/src/observer/Commentary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14333895">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/design patterns 1/src/observer/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14333895">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/design patterns 1/src/observer/TestObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15178572">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.sml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/design patterns 1/src/observer/SMSUsers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58721936">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SML/src/test2.sml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SML/src/test1.sml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cw-pair-scala/src/Factory.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Rectangle.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14680484">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Square.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14680484">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Circle.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22972973">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2016-02-23/src/generics/Stacks.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5691964">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/LinkedListStuff.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09895227">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Sum.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43539">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/sealedtraits/SealedShape.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54464287">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Shape.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03794643">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Rectangular.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1328125">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Colour.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.094866075">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/MapAndReduce.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3760186">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Publisher.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/Division.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/scala 3/src/traitsandinheritance/DivisionGeneric.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5145518">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cw-pair-scala/src/SampleOutput.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SDP2016.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cw-pair-scala/src/Game.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11383928">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cw-pair-scala</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>guice-4.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

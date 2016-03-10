@@ -10,21 +10,21 @@ trait PaperItem extends Item
 
 trait Newspaper extends PaperItem
 
-class GarbageCan[A] {
+class TrashCan[T] {                     // List[+T] Array[T]
   // .. don't worry about implementation yet
 }
 
 object Main extends App {
-  def setGarbageCanForPlastic(gc: GarbageCan[PlasticItem]): Unit = {
-    // sets garbage can for PlasticItem items
+  def setTrashCanForPlastic(gc: TrashCan[PlasticItem]): Unit = {
+    // sets trash can for PlasticItem items
   }
 
   // contravariant subtyping
-  //  setGarbageCanForPlastic(new GarbageCan[Item])
+  //  setTrashCanForPlastic(new TrashCan[Item])
 
   // invariant
-  //  setGarbageCanForPlastic(new GarbageCan[PlasticItem])
+  //setTrashCanForPlastic(new TrashCan[PlasticItem])
 
   // covariant
-  //  setGarbageCanForPlastic(new GarbageCan[PlasticBottle])
+  //setTrashCanForPlastic(new TrashCan[PlasticBottle])
 }

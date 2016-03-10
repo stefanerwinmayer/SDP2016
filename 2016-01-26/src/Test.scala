@@ -1,14 +1,14 @@
 object Test extends App {
 
-  def meth(s : String, i : Int): (String,Int) = {
+  def meth(s: String, i: Int): (String, Int) = {
     var str = s
     var j = i
-    for (x <- 0 until j){
+    for (x <- 0 until j) {
       str += s;
     }
     j = 6
-    (str,j)
+    (str, j)
   }
 
-  println(meth("abc",3))
+  println(meth("abc", 3))
 }

@@ -3,7 +3,9 @@ package eight
 import java.util.Date
 
 trait Visitor {
-  def id: String // unique id
+  def id: String
+
+  // unique id
   def createdAt: Date // date first visited site
 
   def age: Long = new Date().getTime - createdAt.getTime

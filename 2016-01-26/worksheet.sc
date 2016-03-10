@@ -10,7 +10,8 @@ println(yy)
 //yy = 20
 assert(true)
 assert(3 == 3)
-case class A()
 val x = new A()
+
+case class A()
 println(x)
 
