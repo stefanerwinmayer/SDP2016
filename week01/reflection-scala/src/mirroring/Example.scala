@@ -16,17 +16,20 @@ object Example {
     mirror.reflectModule(module).instance
   }
 
-  def invokeMethod(path: String, meth: String) = {
+  def invokeMethod(path: String, meth: String, args: String*) = {
     val mirror = runtimeMirror(getClass.getClassLoader)
     val im = mirror.reflect(getObjectInstance(path))
     val method = im.symbol.typeSignature.member(TermName(meth)).asMethod
-    im.reflectMethod(method).apply()
+    im.reflectMethod(method).apply(args)
   }
 }
 
 object User {
   override def toString():String  = "Here we go..."
   def myMethod():String = "this is the result of invoking myMethod on User"
+  def myMethod2(args: Seq[String]): String = {
+    args(0) + " " + args(1)
+  }
 }
 
 case class Another()
@@ -39,4 +42,7 @@ object MyMain extends App {
 
   val z = Example.invokeMethod("mirroring.User", "myMethod")
   println(z)
+
+  val ww = Example.invokeMethod("mirroring.User", "myMethod2", "fooo", "barr")
+  println(ww)
 }
