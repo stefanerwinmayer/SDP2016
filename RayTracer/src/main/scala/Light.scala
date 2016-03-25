@@ -1,3 +1,3 @@
 case class Light(loc: Vector, colour: Colour) {
-  def brightness = 2.0f
+  def brightness = 1.0f
 }

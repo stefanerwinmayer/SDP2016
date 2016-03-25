@@ -1,5 +1,4 @@
 class Image(val width: Int, val height: Int) {
-
   import java.awt.image.BufferedImage
   import java.io.File
   import javax.imageio.ImageIO
