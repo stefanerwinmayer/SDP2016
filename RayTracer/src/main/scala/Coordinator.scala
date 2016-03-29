@@ -1,6 +1,7 @@
 // TODO
 //
-// Make this an actor and write a message handler for at least the set method.
+// Make this an actor and write a message handler for at least the
+// set method.
 //
 object Coordinator {
   def init(im: Image, of: String) = {
@@ -14,7 +15,7 @@ object Coordinator {
   var outfile: String = null
   var image: Image = null
 
-  // TODO: make this method a message
+  // TODO: make set a message
   def set(x: Int, y: Int, c: Colour) = {
     image(x, y) = c
     waiting -= 1

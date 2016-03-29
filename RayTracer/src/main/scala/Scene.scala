@@ -62,8 +62,9 @@ class Scene private(val objects: List[Shape], val lights: List[Light]) {
     val ss = Trace.AntiAliasingFactor
 
     // TODO:
-    // Create a parallel version of this loop, creating one actor per pixel or per row of pixels.
-    // Each actor should send the Coordinator messages to set the color of a pixel.
+    // Create a parallel version of this loop, creating one actor per pixel or per row of
+    // pixels.  Each actor should send the Coordinator messages to set the
+    // color of a pixel.  The actor need not receive any messages.
 
     for (y <- 0 until height) {
       for (x <- 0 until width) {
@@ -156,7 +157,7 @@ class Scene private(val objects: List[Shape], val lights: List[Light]) {
   def reflected(v: Vector, N: Vector): Vector = v - (N * 2.0f * (v dot N))
 
   def intersections(ray: Ray) = objects.flatMap {
-    o => o.intersect(ray).map { v => (v, o) }
+    o => o.intersect(ray).map { v => (v, o)}
   }
 
   def closestIntersection(ray: Ray) = intersections(ray).sortWith {
