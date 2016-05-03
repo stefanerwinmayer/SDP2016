@@ -14,7 +14,34 @@ lst.foldRight(1.0)( _ / _)
 
 lst.filter( _ > 3.0).reduce(_ + _)
 
+lst.filter( _ > 6.0).reduceOption(_ + _)
+
+lst.filter(_ > 6.0).sum
+
 ( 1.0 /: lst) (_ / _)
 ( lst :\ 1.0) (_ / _)
 
+lst :: lst // cons
+lst ::: lst // append
+lst.map(x => x * x)
+//lst.map(_ => _ * _)
+
+lst.zip(lst)
+
+def f(x: Double) = if (x > 2.0) Some(x) else None
+
+lst.map(x => f(x))
+lst.flatMap(x => f(x))
+
+def g(v: Double) = List(v-1, v, v+1)
+
+lst.map(x => g(x))
+lst.flatMap(x => g(x))
+
+val m = Map(1 -> 2, 2 -> 4, 3 -> 6)
+
+m.toList
+val t = m.head
+
+t._1
 
