@@ -17,12 +17,17 @@ def fibrec(n:Int):BigInt = {
       case 1 => next
       case _ => fibHelper(x -1, next, next + prev)
     }
+  println("Calling fibHelper")
   fibHelper(n)
 }
 
 fibrec(4)
 
 fibrec(4)
+
+def twice(op: Double => Double, x: Double) = op(op(x))
+
+twice(x => x * x, 3)
 
 //val memofib = memo(fibrec)
 
