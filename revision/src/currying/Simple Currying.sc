@@ -2,7 +2,7 @@ def concatenator(w1: String): String => String = w2 => w1 +" "+ w2
 
 val hello = concatenator("Hello")
 
-hello("World")
+hello("World!")
 
 def concat(w1: String)(w2: String) = w1 + " " + w2
 
@@ -21,3 +21,18 @@ one("C")
 val two = con(_:String, _: String)("Z")
 
 two("X","Y")
+
+def twice[A](op: A => A, x: A) = op(op(x))
+
+twice((x:Int) => x * x, 3)
+
+var x = 3
+
+def fun(): Int => Int = xx => x + xx
+
+fun()(3)
+
+x = 10
+
+fun()(3)
+

@@ -6,6 +6,7 @@ aName(2,3,4)
 
 (() => 3)()
 
+// example of closure
 var b = 3
 
 val anotherName = ((x:Int, y:Int) => x + y + b)
