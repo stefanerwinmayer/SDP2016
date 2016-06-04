@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/2016-01-07/2016-01-07.iml" filepath="$PROJECT_DIR$/2016-01-07/2016-01-07.iml" />
       <module fileurl="file://$PROJECT_DIR$/2016-01-12/2016-01-12.iml" filepath="$PROJECT_DIR$/2016-01-12/2016-01-12.iml" />
       <module fileurl="file://$PROJECT_DIR$/2016-01-14/2016-01-14.iml" filepath="$PROJECT_DIR$/2016-01-14/2016-01-14.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2016-01-21/2016-01-21.iml" filepath="$PROJECT_DIR$/2016-01-21/2016-01-21.iml" />
       <module fileurl="file://$PROJECT_DIR$/2016-01-26/2016-01-26.iml" filepath="$PROJECT_DIR$/2016-01-26/2016-01-26.iml" />
       <module fileurl="file://$PROJECT_DIR$/2016-02-01/2016-02-01.iml" filepath="$PROJECT_DIR$/2016-02-01/2016-02-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/2016-02-04/2016-02-04.iml" filepath="$PROJECT_DIR$/2016-02-04/2016-02-04.iml" />
@@ -28,24 +27,20 @@
       <module fileurl="file://$PROJECT_DIR$/exercises/design patterns 2/design patterns 2.iml" filepath="$PROJECT_DIR$/exercises/design patterns 2/design patterns 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/di/di.iml" filepath="$PROJECT_DIR$/di/di.iml" />
       <module fileurl="file://$PROJECT_DIR$/dominoes/dominoes.iml" filepath="$PROJECT_DIR$/dominoes/dominoes.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dp-banas/dp-banas.iml" filepath="$PROJECT_DIR$/dp-banas/dp-banas.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercise-dp/exercise-dp.iml" filepath="$PROJECT_DIR$/exercise-dp/exercise-dp.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercise-dp-two-scala/exercise-dp-two-scala.iml" filepath="$PROJECT_DIR$/exercise-dp-two-scala/exercise-dp-two-scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/guice/guice.iml" filepath="$PROJECT_DIR$/guice/guice.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8/java8.iml" filepath="$PROJECT_DIR$/java8/java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/macwire-examples/macwire-examples.iml" filepath="$PROJECT_DIR$/macwire-examples/macwire-examples.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mop/mop.iml" filepath="$PROJECT_DIR$/mop/mop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/reflection/reflection.iml" filepath="$PROJECT_DIR$/reflection/reflection.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflection-scala/reflection-scala.iml" filepath="$PROJECT_DIR$/reflection-scala/reflection-scala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/revision/revision.iml" filepath="$PROJECT_DIR$/revision/revision.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercises/scala 3/scala 3.iml" filepath="$PROJECT_DIR$/exercises/scala 3/scala 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala-dp/scala-dp.iml" filepath="$PROJECT_DIR$/scala-dp/scala-dp.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala-examples/scala-examples.iml" filepath="$PROJECT_DIR$/scala-examples/scala-examples.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala-exercises/scala-exercises.iml" filepath="$PROJECT_DIR$/scala-exercises/scala-exercises.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springdi/springdi.iml" filepath="$PROJECT_DIR$/springdi/springdi.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdi-scala/springdi-scala.iml" filepath="$PROJECT_DIR$/springdi-scala/springdi-scala.iml" />
       <module fileurl="file://$PROJECT_DIR$/springdi_scala/springdi_scala.iml" filepath="$PROJECT_DIR$/springdi_scala/springdi_scala.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springdialt/springdialt.iml" filepath="$PROJECT_DIR$/springdialt/springdialt.iml" />
     </modules>
   </component>
 </project>
+
